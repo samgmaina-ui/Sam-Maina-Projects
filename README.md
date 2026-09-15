@@ -2,7 +2,7 @@
 
 Auto-generated catalogue of inbox activity for samgmaina@gmail.com / samuel@thesocialhouse.ke, scoped to 15–21 Sept 2026. Refreshed every 3 hours. Recurring operational mail is collapsed into one line per category (see below); only non-repeated items and items carrying a deliverable are listed individually. Real revenue, cost, margin and occupancy figures are redacted per standing policy — check the source system for exact numbers.
 
-Last refreshed: 2026-09-15 (initial run)
+Last refreshed: 2026-09-15T06:41Z
 
 ---
 
@@ -10,6 +10,9 @@ Last refreshed: 2026-09-15 (initial run)
 
 | Date | From | Subject | What it needs |
 |---|---|---|---|
+| 15 Sep | Denis Muthuri (Sales) | Energy Alliance workshop lunch quote (21–25 Sept) | Amended quotation sent to client, who has confirmed receipt and is reviewing. Awaiting client sign-off — chase if no confirmation lands in a day or two. |
+| 15 Sep | Gerald Githiari (Sales) | Private event venue quotation | Client confirmed acceptance and said a booking deposit is coming per standard terms. Watch for the deposit landing before treating the date as locked. |
+| 15 Sep | Jackline Wangui (People Development) | Barista interviews, today 10:00–13:00 | Five candidates scheduled today via Google Meet. No action needed from Sam unless a panelist drops out. |
 | 15 Sep | Lynda Claris (People Development) | Complaints Tracking 14-09-2026 | Open POMEC facilities issue: canteen wash-up tap leaking, no hot water. Needs an owner and an ETA from Engineering. |
 | 15 Sep | Lynda Claris (People Development) | TripAdvisor Team Review Scoreboard, as of 14 Sept | Guest-sentiment KPI feed for the reputation recovery plan. Review and push R&B-relevant lines to outlet leads. |
 | 15 Sep | External guest, via talktous@ | Copper reservation — cancellation request | Guest asked to cancel a Copper reservation. Sam replied and confirmed. Closed, no further action. |
@@ -24,11 +27,13 @@ One line per category, not one per daily instance.
 | Shift & handover reports (C Shift Handover, Night Manager's Report, POMEC Shift C) | Beautiful People FOH, FOH Titans (Victor Karume), The Makers | Daily | Routine, filed |
 | Night Audit / occupancy report | FOH Titans | Daily | Routine; figures redacted here, see Opera/night audit source |
 | Daily Safety & Security checklist | Ngeywa Edwin (Regiment) | Daily | Routine, filed |
+| Vibe Check Selection Program (guest experience programme) | Beautiful People FOH | Daily | Routine, informational, guest names not carried into this digest |
 | SevenRooms automated reservation summaries (TOR breakfast/lunch/dinner) | noreply@sevenrooms.com | Multiple times daily | Automated, informational |
+| Sam's own 06:00 Daily Urgent Email Brief (self-sent) | Samuel@thesocialhouse.ke | Daily | Sam's own workflow, not re-summarized here — see the original for today's priorities |
 
 ## Excluded as noise
 
-- Marketing/promotional mail (e.g. Gamma.app product emails) — not TSH business, not logged as deliverables.
+- Marketing/promotional mail (e.g. Gamma.app, Pinterest, ENQUEST ERP outreach) — not TSH business, not logged as deliverables.
 
 ---
 
