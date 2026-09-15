@@ -2,14 +2,14 @@
 
 Auto-generated catalogue of inbox activity for samgmaina@gmail.com / samuel@thesocialhouse.ke, scoped to 15–21 Sept 2026. Refreshed every 3 hours. Recurring operational mail is collapsed into one line per category (see below); only non-repeated items and items carrying a deliverable are listed individually. Real revenue, cost, margin and occupancy figures are redacted per standing policy — check the source system for exact numbers.
 
-Last refreshed: 2026-09-15T18:41Z
+Last refreshed: 2026-09-15T21:41Z
 
 ---
 
 ## ⚠ Flag for Sam
 
 - **Possible refund scam.** A recurring external sender ("LuCuLuC", claiming diplomatic VAT status after a Copper meal) has resurfaced a months-old thread with a request to reimburse them directly to an M-Pesa number or personal bank account, citing a KRA authorization. Sam has already forwarded it to Stephen and Fridah in Finance asking them to advise — flagging here so it doesn't get treated as routine. Recommend: do not transfer anything until Finance independently verifies the KRA paperwork and the requester's identity through official channels, not the details supplied in the email.
-- **McKinsey outside catering — account-risk feedback, already in motion.** Janet Wachira relayed detailed feedback today from McKinsey's event organizer on outside catering: buffet presentation seen as too basic, chafing dishes overheating and leaking, noisy/unstable lids, worn and rusty inserts, a gap between menu photos and what's served, lunch portioning inconsistent with guest counts, worn hot-beverage flasks, and a need for a proper catering trolley. McKinsey did praise punctuality and setup readiness. Sam already held a menu meeting with Juliet the same day, circulated menu proposals and proposed equipment upgrades (better chafing dishes, electric tea urns) to the culinary team and an external chef contact, and Anibal has asked that future menu proposals include an estimated selling price alongside. Given McKinsey is a "handle with care" account, worth confirming the equipment and menu fixes have owners and dates.
+- **McKinsey outside catering — account-risk feedback, already in motion.** Janet Wachira relayed detailed feedback today from McKinsey's event organizer on outside catering: buffet presentation seen as too basic, chafing dishes overheating and leaking, noisy/unstable lids, worn and rusty inserts, a gap between menu photos and what's served, lunch portioning inconsistent with guest counts, worn hot-beverage flasks, and a need for a proper catering trolley. McKinsey did praise punctuality and setup readiness. Sam already held a menu meeting with Juliet the same day, circulated menu proposals and proposed equipment upgrades (better chafing dishes, electric tea urns) to the culinary team and an external chef contact, and Anibal has asked that future menu proposals include an estimated selling price alongside. Given McKinsey is a "handle with care" account, worth confirming the equipment and menu fixes have owners and dates. **Update:** Sam emailed Austine directly this evening naming the equipment (flasks, chafing dishes, a tea urn) and Austine confirmed he'll review quotes and align — an owner is now assigned on the equipment side.
 
 ## Key deliverables and one-off items
 
@@ -49,7 +49,7 @@ One line per category, not one per daily instance.
 | Outlet & area checklists (Living Room, Studio, Garage, Library) | Angela Etale, Victoria Akinyi, Sparklers team, Gerald Githiari | Daily | Routine, filed, no exceptions flagged this week |
 | Shift & handover reports (C Shift Handover, Night Manager's Report, POMEC Shift C, MOD Checklist) | Beautiful People FOH, FOH Titans (Victor Karume), The Makers, Housekeeping | Daily | Routine, filed |
 | Night Audit / occupancy report | FOH Titans | Daily | Routine; figures redacted here, see Opera/night audit source |
-| Daily Safety & Security checklist | Ngeywa Edwin (Regiment) | Daily | Routine, filed |
+| Daily Safety & Security checklist / Job Cards | Ngeywa Edwin (Regiment) | Daily | Routine, filed |
 | Vibe Check Selection Program (guest experience programme) | Beautiful People FOH | Daily | Routine, informational, guest names not carried into this digest |
 | SevenRooms automated reservation summaries (TOR breakfast/lunch/dinner) | noreply@sevenrooms.com | Multiple times daily | Automated, informational |
 | Sam's own 06:00 Daily Urgent Email Brief (self-sent) | Samuel@thesocialhouse.ke | Daily | Sam's own workflow, not re-summarized here — see the original for today's priorities |
@@ -62,6 +62,7 @@ One line per category, not one per daily instance.
 
 - Marketing/promotional mail (e.g. Gamma.app, Pinterest, ENQUEST ERP outreach, Manychat, Zapier, Lewa Conservancy appeal, an unsolicited welcome-products pitch from a Moroccan supplier, GlobalData marketing) — not TSH business, not logged as deliverables.
 - Vienna food & beverage marketplace event (13–15 Oct) — logistics/prep info for an event Sam is already registered for, no decision needed right now.
+- TripAdvisor "get more reviews" upsell email and a Claude mobile app promo — vendor marketing, not logged as deliverables.
 - Low-materiality internal admin notices (e.g. juice container returns, transport requests, PD calendar notices, Google Business Profile photo-add alerts) — filed but not worth a deliverable row.
 - Tooling/account notices from Sam's own new Granola sign-up (welcome email, security alert, self-sent note link) — personal tooling, not TSH business.
 
