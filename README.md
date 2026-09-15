@@ -2,18 +2,20 @@
 
 Auto-generated catalogue of inbox activity for samgmaina@gmail.com / samuel@thesocialhouse.ke, scoped to 15–21 Sept 2026. Refreshed every 3 hours. Recurring operational mail is collapsed into one line per category (see below); only non-repeated items and items carrying a deliverable are listed individually. Real revenue, cost, margin and occupancy figures are redacted per standing policy — check the source system for exact numbers.
 
-Last refreshed: 2026-09-15T15:41Z
+Last refreshed: 2026-09-15T18:41Z
 
 ---
 
 ## ⚠ Flag for Sam
 
 - **Possible refund scam.** A recurring external sender ("LuCuLuC", claiming diplomatic VAT status after a Copper meal) has resurfaced a months-old thread with a request to reimburse them directly to an M-Pesa number or personal bank account, citing a KRA authorization. Sam has already forwarded it to Stephen and Fridah in Finance asking them to advise — flagging here so it doesn't get treated as routine. Recommend: do not transfer anything until Finance independently verifies the KRA paperwork and the requester's identity through official channels, not the details supplied in the email.
+- **McKinsey outside catering — account-risk feedback, already in motion.** Janet Wachira relayed detailed feedback today from McKinsey's event organizer on outside catering: buffet presentation seen as too basic, chafing dishes overheating and leaking, noisy/unstable lids, worn and rusty inserts, a gap between menu photos and what's served, lunch portioning inconsistent with guest counts, worn hot-beverage flasks, and a need for a proper catering trolley. McKinsey did praise punctuality and setup readiness. Sam already held a menu meeting with Juliet the same day, circulated menu proposals and proposed equipment upgrades (better chafing dishes, electric tea urns) to the culinary team and an external chef contact, and Anibal has asked that future menu proposals include an estimated selling price alongside. Given McKinsey is a "handle with care" account, worth confirming the equipment and menu fixes have owners and dates.
 
 ## Key deliverables and one-off items
 
 | Date | From | Subject | What it needs |
 |---|---|---|---|
+| 15 Sep | Hoteza (in-room ordering system) | Repeated "overdue shop order" alerts | Seven separate overdue-order alerts landed within about 90 minutes this evening. Worth a check with FOH/RNB on whether in-room guest orders are being fulfilled on time tonight. |
 | 15 Sep | TripAdvisor | Travelers' Choice Awards win | Good news — one of the outlets has won a Travelers' Choice Award. Worth a quick decision with Marketing/Pauline on how and where to announce it. |
 | 15 Sep | Janet Kangethe (Beverage) | Weekly beverage order — urgent stock-out risk | Flagged urgent by Janet: multiple items out of stock, the rest at dangerously low levels. Sent to Finance for the order — needs fast sign-off to avoid outlets running dry. |
 | 15 Sep | Omnicom (travel agent, via talktous@) | Corporate rate request, stay 27 Sept–1 Oct | Travel agent requesting a quote for a corporate guest's stay. Needs a rate reply from Reservations. |
@@ -45,7 +47,7 @@ One line per category, not one per daily instance.
 | Category | Typical senders | Cadence | Status |
 |---|---|---|---|
 | Outlet & area checklists (Living Room, Studio, Garage, Library) | Angela Etale, Victoria Akinyi, Sparklers team, Gerald Githiari | Daily | Routine, filed, no exceptions flagged this week |
-| Shift & handover reports (C Shift Handover, Night Manager's Report, POMEC Shift C) | Beautiful People FOH, FOH Titans (Victor Karume), The Makers | Daily | Routine, filed |
+| Shift & handover reports (C Shift Handover, Night Manager's Report, POMEC Shift C, MOD Checklist) | Beautiful People FOH, FOH Titans (Victor Karume), The Makers, Housekeeping | Daily | Routine, filed |
 | Night Audit / occupancy report | FOH Titans | Daily | Routine; figures redacted here, see Opera/night audit source |
 | Daily Safety & Security checklist | Ngeywa Edwin (Regiment) | Daily | Routine, filed |
 | Vibe Check Selection Program (guest experience programme) | Beautiful People FOH | Daily | Routine, informational, guest names not carried into this digest |
