@@ -2,7 +2,7 @@
 
 Auto-generated catalogue of inbox activity for samgmaina@gmail.com / samuel@thesocialhouse.ke, scoped to 15–21 Sept 2026. Refreshed every 3 hours. Recurring operational mail is collapsed into one line per category (see below); only non-repeated items and items carrying a deliverable are listed individually. Real revenue, cost, margin and occupancy figures are redacted per standing policy — check the source system for exact numbers.
 
-Last refreshed: 2026-09-15T12:41Z
+Last refreshed: 2026-09-15T15:41Z
 
 ---
 
@@ -14,6 +14,10 @@ Last refreshed: 2026-09-15T12:41Z
 
 | Date | From | Subject | What it needs |
 |---|---|---|---|
+| 15 Sep | TripAdvisor | Travelers' Choice Awards win | Good news — one of the outlets has won a Travelers' Choice Award. Worth a quick decision with Marketing/Pauline on how and where to announce it. |
+| 15 Sep | Janet Kangethe (Beverage) | Weekly beverage order — urgent stock-out risk | Flagged urgent by Janet: multiple items out of stock, the rest at dangerously low levels. Sent to Finance for the order — needs fast sign-off to avoid outlets running dry. |
+| 15 Sep | Omnicom (travel agent, via talktous@) | Corporate rate request, stay 27 Sept–1 Oct | Travel agent requesting a quote for a corporate guest's stay. Needs a rate reply from Reservations. |
+| 15 Sep | HODs (fwd via Winnie) | Staff hoodies — HODs & Sales Team | Internal ask for HOD input on how to handle a staff hoodies decision. Needs Sam's view along with the other HODs. |
 | 15 Sep | SNV (via Denis Muthuri) | Dinner reservation, 23 Sept, INCA | Quotation sent for a corporate team dinner. Awaiting client confirmation. |
 | 15 Sep | Alba Hotels / FCM Travel (via Denis Muthuri) | SSPS Sponsors Appreciation Cocktail | Booking confirmed, final menu locked in today within the client's agreed budget. Cross-property (Alba) win — no action needed unless FCM comes back with changes. |
 | 15 Sep | Jays Wines (Accounts) | Account statement — pending payments | Supplier sent a statement of account to Procurement (shem@), cc Sam, chasing pending payments. Needs a status check and reply from Procurement/Finance. |
@@ -26,7 +30,7 @@ Last refreshed: 2026-09-15T12:41Z
 | 15 Sep | Google Business Profile | New review for Inca (from "David") | Fresh public review landed today. Worth a read and a response if it needs one, same as the TripAdvisor feed. |
 | 15 Sep | Rose Mugambi (Sales, forwarded lead) | Partnership inquiry — Malfy Gin day party, ~400 guests (Nov/Dec) | New inbound partnership opportunity for later in the year. Needs a go/no-go read before it's worked up into a proposal. |
 | 15 Sep | Denis Muthuri (Sales) | Energy Alliance workshop lunch quote (21–25 Sept) | Amended quotation sent to client, who has confirmed receipt and is reviewing. Awaiting client sign-off — chase if no confirmation lands in a day or two. |
-| 15 Sep | Gerald Githiari (Sales) | Private event venue quotation | Client confirmed acceptance and said a booking deposit is coming per standard terms. Watch for the deposit landing before treating the date as locked. |
+| 15 Sep | Gerald Githiari (Sales) | Private event venue quotation | **Closed.** Client confirmed and deposit has landed (confirmed by M-Pesa reference, figure redacted here) for a revised 6-pax booking. No further action. |
 | 15 Sep | Jackline Wangui (People Development) | Barista interviews, today 10:00–13:00 | Five candidates scheduled today via Google Meet. No action needed from Sam unless a panelist drops out. |
 | 15 Sep | Lynda Claris (People Development) | Complaints Tracking 14-09-2026 | Open POMEC facilities issue: canteen wash-up tap leaking, no hot water. Needs an owner and an ETA from Engineering. |
 | 15 Sep | Lynda Claris (People Development) | TripAdvisor Team Review Scoreboard, as of 14 Sept | Guest-sentiment KPI feed for the reputation recovery plan. Review and push R&B-relevant lines to outlet leads. |
@@ -49,10 +53,13 @@ One line per category, not one per daily instance.
 | Sam's own 06:00 Daily Urgent Email Brief (self-sent) | Samuel@thesocialhouse.ke | Daily | Sam's own workflow, not re-summarized here — see the original for today's priorities |
 | Service Charge Retention sheet | Faith Menya (People Development) | Monthly | Routine, figures redacted here |
 | Banquet Event Orders (BEO), per event | Gerald Githiari (Sales) | Per event, revised as details firm up | Normal cadence; only flagged above when an imminent event's final version isn't clear |
+| Guest Relations (GRO) reports | Abigail Waweru (Guest Relations) | Daily | Routine, filed |
+| Sales inquiry lead handoffs (FOH → Sales) | Beautiful People FOH, Gerald Githiari | As inquiries come in | Routine intake; today's example was a gin-party event follow-up from Talent Africa Group — distinct from the Malfy Gin lead already flagged |
 
 ## Excluded as noise
 
-- Marketing/promotional mail (e.g. Gamma.app, Pinterest, ENQUEST ERP outreach, Manychat, Zapier, Lewa Conservancy appeal) — not TSH business, not logged as deliverables.
+- Marketing/promotional mail (e.g. Gamma.app, Pinterest, ENQUEST ERP outreach, Manychat, Zapier, Lewa Conservancy appeal, an unsolicited welcome-products pitch from a Moroccan supplier, GlobalData marketing) — not TSH business, not logged as deliverables.
+- Vienna food & beverage marketplace event (13–15 Oct) — logistics/prep info for an event Sam is already registered for, no decision needed right now.
 - Low-materiality internal admin notices (e.g. juice container returns, transport requests, PD calendar notices, Google Business Profile photo-add alerts) — filed but not worth a deliverable row.
 - Tooling/account notices from Sam's own new Granola sign-up (welcome email, security alert, self-sent note link) — personal tooling, not TSH business.
 
