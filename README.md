@@ -2,18 +2,25 @@
 
 Auto-generated catalogue of inbox activity for samgmaina@gmail.com / samuel@thesocialhouse.ke, scoped to 15–21 Sept 2026. Refreshed every 3 hours. Recurring operational mail is collapsed into one line per category (see below); only non-repeated items and items carrying a deliverable are listed individually. Real revenue, cost, margin and occupancy figures are redacted per standing policy — check the source system for exact numbers.
 
-Last refreshed: 2026-09-15T09:41Z
+Last refreshed: 2026-09-15T12:41Z
 
 ---
+
+## ⚠ Flag for Sam
+
+- **Possible refund scam.** A recurring external sender ("LuCuLuC", claiming diplomatic VAT status after a Copper meal) has resurfaced a months-old thread with a request to reimburse them directly to an M-Pesa number or personal bank account, citing a KRA authorization. Sam has already forwarded it to Stephen and Fridah in Finance asking them to advise — flagging here so it doesn't get treated as routine. Recommend: do not transfer anything until Finance independently verifies the KRA paperwork and the requester's identity through official channels, not the details supplied in the email.
 
 ## Key deliverables and one-off items
 
 | Date | From | Subject | What it needs |
 |---|---|---|---|
+| 15 Sep | SNV (via Denis Muthuri) | Dinner reservation, 23 Sept, INCA | Quotation sent for a corporate team dinner. Awaiting client confirmation. |
+| 15 Sep | Alba Hotels / FCM Travel (via Denis Muthuri) | SSPS Sponsors Appreciation Cocktail | Booking confirmed, final menu locked in today within the client's agreed budget. Cross-property (Alba) win — no action needed unless FCM comes back with changes. |
+| 15 Sep | Jays Wines (Accounts) | Account statement — pending payments | Supplier sent a statement of account to Procurement (shem@), cc Sam, chasing pending payments. Needs a status check and reply from Procurement/Finance. |
 | 15 Sep | Baobab Impact (via Sales) | Catering quote, 18 Sept meeting | Client is pushing to close today — asked to confirm the quotation is final by end of day. Needs a same-day yes/no from Sam or Sales. |
 | 15 Sep | Corporate guest, prior-stay billing dispute | Refund still open | Guest has now chased twice (10 Sept, 15 Sept) for confirmation that a billing-error refund has gone through. Overdue — close it out today to protect the relationship. |
 | 15 Sep | Gulf Energy (via Denis Muthuri) | Conference booking, 16 Sept (GEBV) | Space held for tomorrow's full-day meeting; Denis has asked Gulf Energy to reconfirm they're proceeding. Awaiting client confirmation. |
-| 15 Sep | Gerald Githiari (Sales) | Banquet Event Order, 15 Sept | Six revisions issued since 11 Sept, most recent this morning. Worth a quick check with Gerald on which version outlets are executing against today. |
+| 15 Sep | Gerald Githiari (Sales) | Banquet Event Orders, 15 & 16 Sept | Six revisions on the 15th's BEO since 11 Sept, and the 16th's BEO already has one revision the same day it was issued. Worth a quick check with Gerald on which version each outlet is executing against. |
 | 15 Sep | Samuel Wanjau / AV vendor / Finance | In-house sound system down (BGM feedback noise) | Escalated since 14 Sept, cc'd to Juliet. Vendor quote accepted, PO being raised with Finance; system still down as of this morning — guest ambience impact continues. |
 | 15 Sep | Vending Services | Price increment notice | Revised order pad and pricing received today. Needs procurement/finance review and a decision to accept or push back — figures not reproduced here. |
 | 15 Sep | Google Business Profile | New review for Inca (from "David") | Fresh public review landed today. Worth a read and a response if it needs one, same as the TripAdvisor feed. |
@@ -40,11 +47,14 @@ One line per category, not one per daily instance.
 | Vibe Check Selection Program (guest experience programme) | Beautiful People FOH | Daily | Routine, informational, guest names not carried into this digest |
 | SevenRooms automated reservation summaries (TOR breakfast/lunch/dinner) | noreply@sevenrooms.com | Multiple times daily | Automated, informational |
 | Sam's own 06:00 Daily Urgent Email Brief (self-sent) | Samuel@thesocialhouse.ke | Daily | Sam's own workflow, not re-summarized here — see the original for today's priorities |
+| Service Charge Retention sheet | Faith Menya (People Development) | Monthly | Routine, figures redacted here |
+| Banquet Event Orders (BEO), per event | Gerald Githiari (Sales) | Per event, revised as details firm up | Normal cadence; only flagged above when an imminent event's final version isn't clear |
 
 ## Excluded as noise
 
-- Marketing/promotional mail (e.g. Gamma.app, Pinterest, ENQUEST ERP outreach, Manychat, Zapier) — not TSH business, not logged as deliverables.
-- Low-materiality internal admin notices (e.g. juice container returns, transport requests, PD calendar notices) — filed but not worth a deliverable row.
+- Marketing/promotional mail (e.g. Gamma.app, Pinterest, ENQUEST ERP outreach, Manychat, Zapier, Lewa Conservancy appeal) — not TSH business, not logged as deliverables.
+- Low-materiality internal admin notices (e.g. juice container returns, transport requests, PD calendar notices, Google Business Profile photo-add alerts) — filed but not worth a deliverable row.
+- Tooling/account notices from Sam's own new Granola sign-up (welcome email, security alert, self-sent note link) — personal tooling, not TSH business.
 
 ---
 
