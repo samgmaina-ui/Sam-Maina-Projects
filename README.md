@@ -2,7 +2,7 @@
 
 Auto-generated catalogue of inbox activity for samgmaina@gmail.com / samuel@thesocialhouse.ke, scoped to 15–21 Sept 2026. Refreshed every 3 hours. Recurring operational mail is collapsed into one line per category (see below); only non-repeated items and items carrying a deliverable are listed individually. Real revenue, cost, margin and occupancy figures are redacted per standing policy — check the source system for exact numbers.
 
-Last refreshed: 2026-09-16T06:41Z
+Last refreshed: 2026-09-16T09:41Z
 
 ---
 
@@ -15,6 +15,9 @@ Last refreshed: 2026-09-16T06:41Z
 
 | Date | From | Subject | What it needs |
 |---|---|---|---|
+| 16 Sep | Vivo Energy | New booking request, TOR, 23 Sept | Client has reserved The Other Room for 35 pax from 7pm, final numbers to follow. Needs a quotation/confirmation reply from Sales. |
+| 16 Sep | PwC (via Martin) | TOR buffet dinner, 18 Sept — booking released | Client asked to release their 18 Sept booking (20 pax); they'll share a new date next week. No action needed until they come back — don't hold the date. |
+| 16 Sep | Alicia Erickson (journalist, "Hotels Above Par") | Nairobi city guide feature — press opportunity | Freelance writer reached out about including TSH in a Nairobi guide. Anibal forwarded to Sam, Sam's forwarded to Pauline for Marketing to run with. |
 | 16 Sep | Dominic Manono (FOH), to Finance | RnB double payment flagged in night audit | Last night's audit found a duplicate M-Pesa payment on a guest check (The Other Room). Needs Stephen/Finance to confirm and process the reversal. |
 | 15 Sep | Hoteza (in-room ordering system) | Repeated "overdue shop order" alerts | Seven separate overdue-order alerts landed within about 90 minutes this evening. Worth a check with FOH/RNB on whether in-room guest orders are being fulfilled on time tonight. |
 | 15 Sep | TripAdvisor | Travelers' Choice Awards win | Good news — one of the outlets has won a Travelers' Choice Award. Worth a quick decision with Marketing/Pauline on how and where to announce it. |
@@ -49,7 +52,7 @@ One line per category, not one per daily instance.
 | Category | Typical senders | Cadence | Status |
 |---|---|---|---|
 | Outlet & area checklists (Living Room, Studio, Garage, Library, Shed) | Angela Etale, Victoria Akinyi, Sparklers team, Gerald Githiari, Joy Orina | Daily | Routine, filed, no exceptions flagged this week |
-| Morning Brief Report (R&B Coordinator to PD) | Joy Orina | Daily | Routine, filed |
+| Morning Brief Report (R&B Coordinator to PD; L&D compliance tracker) | Joy Orina; Mercy Wambui (L&D) | Daily | Routine, filed; L&D version tracks which departments haven't submitted their briefs yet |
 | Performance appraisal reminders (Brand Assessment & KPIs, Upande ESS) | Winnie Wamungu / Faith Menya (People Development) | Periodic during appraisal cycle | Needs each HOD, Sam included, to log assessments/KPIs in the system — not urgent today but don't let it lapse |
 | Shift & handover reports (C Shift Handover, Night Manager's Report, POMEC Shift C, MOD Checklist) | Beautiful People FOH, FOH Titans (Victor Karume), The Makers, Housekeeping | Daily | Routine, filed |
 | Night Audit / occupancy report | FOH Titans | Daily | Routine; figures redacted here, see Opera/night audit source |
@@ -71,6 +74,7 @@ One line per category, not one per daily instance.
 - TripAdvisor "get more reviews" upsell email and a Claude mobile app promo — vendor marketing, not logged as deliverables.
 - Low-materiality internal admin notices (e.g. juice container returns, transport requests, PD calendar notices, Google Business Profile photo-add alerts) — filed but not worth a deliverable row.
 - Tooling/account notices from Sam's own new Granola sign-up (welcome email, security alert, self-sent note link) — personal tooling, not TSH business.
+- Cold sales outreach (a grocery supplier pitch, a restaurant-tech platform pitch sent twice, a hospitality networking app promo) and a routine SevenRooms login verification code — not deliverables.
 
 ---
 
