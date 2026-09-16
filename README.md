@@ -2,7 +2,7 @@
 
 Auto-generated catalogue of inbox activity for samgmaina@gmail.com / samuel@thesocialhouse.ke, scoped to 15–21 Sept 2026. Refreshed every 3 hours. Recurring operational mail is collapsed into one line per category (see below); only non-repeated items and items carrying a deliverable are listed individually. Real revenue, cost, margin and occupancy figures are redacted per standing policy — check the source system for exact numbers.
 
-Last refreshed: 2026-09-16T12:41Z
+Last refreshed: 2026-09-16T15:41Z
 
 ---
 
@@ -29,7 +29,7 @@ Last refreshed: 2026-09-16T12:41Z
 | 15 Sep | SNV (via Denis Muthuri) | Dinner reservation, 23 Sept, INCA | Quotation sent for a corporate team dinner. Awaiting client confirmation. |
 | 15 Sep | Alba Hotels / FCM Travel (via Denis Muthuri) | SSPS Sponsors Appreciation Cocktail | Booking confirmed, final menu locked in today within the client's agreed budget. Cross-property (Alba) win — no action needed unless FCM comes back with changes. |
 | 15 Sep | Jays Wines (Accounts) | Account statement — pending payments | Supplier sent a statement of account to Procurement (shem@), cc Sam, chasing pending payments. Needs a status check and reply from Procurement/Finance. |
-| 15 Sep | Baobab Impact (via Sales) | Catering quote, 18 Sept meeting | **Closed.** Payment confirmation shared and acknowledged by Gerald this morning. No further action. |
+| 15 Sep | Baobab Impact (via Sales) | Catering quote, 18 Sept meeting | **Closed and in execution.** Payment confirmed; Austine has now arranged chafing dish and tea urn hire for Friday's Westlands Pavilion breakfast — the same equipment upgrade proposed for McKinsey is being put into practice here first. |
 | 15 Sep | Corporate guest, prior-stay billing dispute | Refund still open | Guest has now chased twice (10 Sept, 15 Sept) for confirmation that a billing-error refund has gone through. Overdue — close it out today to protect the relationship. |
 | 15 Sep | Gulf Energy (via Denis Muthuri) | Conference booking, 16 Sept (GEBV) | **Confirmed.** Today's Daily Urgent Brief lists it as going ahead 9:30 AM–5:00 PM for 16 guests. No further action unless something changes on the day. |
 | 16 Sep | Samuel Wanjau (IT), to Safaricom | Internet/data capacity discussion | Following up an earlier on-demand bandwidth upgrade request, Wanjau's asked Safaricom to discuss data capacity generally. Worth keeping an eye on given today's Gulf Energy conference depends on reliable connectivity. |
@@ -77,6 +77,8 @@ One line per category, not one per daily instance.
 - Low-materiality internal admin notices (e.g. juice container returns, transport requests, PD calendar notices, Google Business Profile photo-add alerts) — filed but not worth a deliverable row.
 - Tooling/account notices from Sam's own new Granola sign-up (welcome email, security alert, self-sent note link) — personal tooling, not TSH business.
 - Cold sales outreach (a grocery supplier pitch, a restaurant-tech platform pitch sent twice, a hospitality networking app promo, a South African wine/spirits brand marketing pitch) and a routine SevenRooms login verification code — not deliverables.
+- Booking.com and SevenRooms marketing newsletters, a Formula 1 fan newsletter, a job application for a bartending attachment, and a routine ABSA receipt-reconciliation request (handled by Joy as before) — filed, not logged individually.
+- Secret Garden booking for Shuga Global confirmed for 18 Sept — no action needed.
 
 ---
 
