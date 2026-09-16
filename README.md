@@ -2,7 +2,7 @@
 
 Auto-generated catalogue of inbox activity for samgmaina@gmail.com / samuel@thesocialhouse.ke, scoped to 15–21 Sept 2026. Refreshed every 3 hours. Recurring operational mail is collapsed into one line per category (see below); only non-repeated items and items carrying a deliverable are listed individually. Real revenue, cost, margin and occupancy figures are redacted per standing policy — check the source system for exact numbers.
 
-Last refreshed: 2026-09-16T15:41Z
+Last refreshed: 2026-09-16T18:41Z
 
 ---
 
@@ -21,7 +21,7 @@ Last refreshed: 2026-09-16T15:41Z
 | 16 Sep | PwC (via Martin) | TOR buffet dinner, 18 Sept — booking released | **Closed.** Martin acknowledged the release; client will share a new date next week. Nothing to hold or chase. |
 | 16 Sep | Alicia Erickson (journalist, "Hotels Above Par") | Nairobi city guide feature — press opportunity | Freelance writer reached out about including TSH in a Nairobi guide. Anibal forwarded to Sam, Sam's forwarded to Pauline for Marketing to run with. |
 | 16 Sep | Dominic Manono (FOH), to Finance | RnB double payment flagged in night audit | Last night's audit found a duplicate M-Pesa payment on a guest check (The Other Room). Needs Stephen/Finance to confirm and process the reversal. |
-| 15 Sep | Hoteza (in-room ordering system) | Repeated "overdue shop order" alerts | Seven separate overdue-order alerts landed within about 90 minutes this evening. Worth a check with FOH/RNB on whether in-room guest orders are being fulfilled on time tonight. |
+| 15–16 Sep | Hoteza (in-room ordering system) | Repeated "overdue shop order" alerts, two evenings running | Seven alerts on the 15th, and more landed again this evening (16th) — same pattern, not a one-off. Worth asking FOH/RNB whether this is a fulfillment problem or the system flagging normally-timed orders as overdue. |
 | 15 Sep | TripAdvisor | Travelers' Choice Awards win | Good news — one of the outlets has won a Travelers' Choice Award. Worth a quick decision with Marketing/Pauline on how and where to announce it. |
 | 15 Sep | Janet Kangethe (Beverage) | Weekly beverage order — urgent stock-out risk | Flagged urgent by Janet: multiple items out of stock, the rest at dangerously low levels. Sent to Finance for the order — needs fast sign-off to avoid outlets running dry. |
 | 15 Sep | Omnicom (travel agent, via talktous@) | Corporate rate request, stay 27 Sept–1 Oct | Travel agent requesting a quote for a corporate guest's stay. Needs a rate reply from Reservations. |
@@ -79,6 +79,7 @@ One line per category, not one per daily instance.
 - Cold sales outreach (a grocery supplier pitch, a restaurant-tech platform pitch sent twice, a hospitality networking app promo, a South African wine/spirits brand marketing pitch) and a routine SevenRooms login verification code — not deliverables.
 - Booking.com and SevenRooms marketing newsletters, a Formula 1 fan newsletter, a job application for a bartending attachment, and a routine ABSA receipt-reconciliation request (handled by Joy as before) — filed, not logged individually.
 - Secret Garden booking for Shuga Global confirmed for 18 Sept — no action needed.
+- A cold "website audit" pitch and a TestFlight app-testing invite (sent twice) landed on talktous@ — not deliverables.
 
 ---
 
