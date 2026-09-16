@@ -2,7 +2,7 @@
 
 Auto-generated catalogue of inbox activity for samgmaina@gmail.com / samuel@thesocialhouse.ke, scoped to 15–21 Sept 2026. Refreshed every 3 hours. Recurring operational mail is collapsed into one line per category (see below); only non-repeated items and items carrying a deliverable are listed individually. Real revenue, cost, margin and occupancy figures are redacted per standing policy — check the source system for exact numbers.
 
-Last refreshed: 2026-09-16T03:41Z
+Last refreshed: 2026-09-16T06:41Z
 
 ---
 
@@ -26,7 +26,8 @@ Last refreshed: 2026-09-16T03:41Z
 | 15 Sep | Jays Wines (Accounts) | Account statement — pending payments | Supplier sent a statement of account to Procurement (shem@), cc Sam, chasing pending payments. Needs a status check and reply from Procurement/Finance. |
 | 15 Sep | Baobab Impact (via Sales) | Catering quote, 18 Sept meeting | Client is pushing to close today — asked to confirm the quotation is final by end of day. Needs a same-day yes/no from Sam or Sales. |
 | 15 Sep | Corporate guest, prior-stay billing dispute | Refund still open | Guest has now chased twice (10 Sept, 15 Sept) for confirmation that a billing-error refund has gone through. Overdue — close it out today to protect the relationship. |
-| 15 Sep | Gulf Energy (via Denis Muthuri) | Conference booking, 16 Sept (GEBV) | Space held for tomorrow's full-day meeting; Denis has asked Gulf Energy to reconfirm they're proceeding. Awaiting client confirmation. |
+| 15 Sep | Gulf Energy (via Denis Muthuri) | Conference booking, 16 Sept (GEBV) | **Confirmed.** Today's Daily Urgent Brief lists it as going ahead 9:30 AM–5:00 PM for 16 guests. No further action unless something changes on the day. |
+| 16 Sep | Samuel Wanjau (IT), to Safaricom | Internet/data capacity discussion | Following up an earlier on-demand bandwidth upgrade request, Wanjau's asked Safaricom to discuss data capacity generally. Worth keeping an eye on given today's Gulf Energy conference depends on reliable connectivity. |
 | 15 Sep | Gerald Githiari (Sales) | Banquet Event Orders, 15 & 16 Sept | Six revisions on the 15th's BEO since 11 Sept, and the 16th's BEO already has one revision the same day it was issued. Worth a quick check with Gerald on which version each outlet is executing against. |
 | 15 Sep | Samuel Wanjau / AV vendor / Finance | In-house sound system down (BGM feedback noise) | Escalated since 14 Sept, cc'd to Juliet. Vendor quote accepted, PO being raised with Finance; system still down as of this morning — guest ambience impact continues. |
 | 15 Sep | Vending Services | Price increment notice | Revised order pad and pricing received today. Needs procurement/finance review and a decision to accept or push back — figures not reproduced here. |
@@ -47,7 +48,9 @@ One line per category, not one per daily instance.
 
 | Category | Typical senders | Cadence | Status |
 |---|---|---|---|
-| Outlet & area checklists (Living Room, Studio, Garage, Library) | Angela Etale, Victoria Akinyi, Sparklers team, Gerald Githiari | Daily | Routine, filed, no exceptions flagged this week |
+| Outlet & area checklists (Living Room, Studio, Garage, Library, Shed) | Angela Etale, Victoria Akinyi, Sparklers team, Gerald Githiari, Joy Orina | Daily | Routine, filed, no exceptions flagged this week |
+| Morning Brief Report (R&B Coordinator to PD) | Joy Orina | Daily | Routine, filed |
+| Performance appraisal reminders (Brand Assessment & KPIs, Upande ESS) | Winnie Wamungu / Faith Menya (People Development) | Periodic during appraisal cycle | Needs each HOD, Sam included, to log assessments/KPIs in the system — not urgent today but don't let it lapse |
 | Shift & handover reports (C Shift Handover, Night Manager's Report, POMEC Shift C, MOD Checklist) | Beautiful People FOH, FOH Titans (Victor Karume), The Makers, Housekeeping | Daily | Routine, filed |
 | Night Audit / occupancy report | FOH Titans | Daily | Routine; figures redacted here, see Opera/night audit source |
 | Daily Safety & Security checklist / Job Cards | Ngeywa Edwin (Regiment) | Daily | Routine, filed |
