@@ -2,7 +2,7 @@
 
 Auto-generated catalogue of inbox activity for samgmaina@gmail.com / samuel@thesocialhouse.ke, scoped to 15–21 Sept 2026. Refreshed every 3 hours. Recurring operational mail is collapsed into one line per category (see below); only non-repeated items and items carrying a deliverable are listed individually. Real revenue, cost, margin and occupancy figures are redacted per standing policy — check the source system for exact numbers.
 
-Last refreshed: 2026-09-16T09:41Z
+Last refreshed: 2026-09-16T12:41Z
 
 ---
 
@@ -15,8 +15,10 @@ Last refreshed: 2026-09-16T09:41Z
 
 | Date | From | Subject | What it needs |
 |---|---|---|---|
-| 16 Sep | Vivo Energy | New booking request, TOR, 23 Sept | Client has reserved The Other Room for 35 pax from 7pm, final numbers to follow. Needs a quotation/confirmation reply from Sales. |
-| 16 Sep | PwC (via Martin) | TOR buffet dinner, 18 Sept — booking released | Client asked to release their 18 Sept booking (20 pax); they'll share a new date next week. No action needed until they come back — don't hold the date. |
+| 16 Sep | Energy Alliance (GEA, via Trizah Maina) | New quotation request — multi-day catering, int'l guests | Separate from the existing workshop lunch quote: a new request for catering across several days for a mixed German/American/African guest group. Needs a quotation from Denis/Sales. |
+| 16 Sep | iOpener Limited (external pitch, cc Michelle) | "1 House, 7 Days, 7 Men, 7 Meals, 7 Stories" concept pitch | Third follow-up since 3 Sept on an International Men's Day activation idea — still no reply from Sam. Needs at minimum a yes/no so they stop chasing. |
+| 16 Sep | Vivo Energy | New booking request, TOR, 23 Sept | Client has reserved The Other Room for 35 pax from 7pm, final numbers to follow. **Sam has replied** with a quotation — awaiting client confirmation. |
+| 16 Sep | PwC (via Martin) | TOR buffet dinner, 18 Sept — booking released | **Closed.** Martin acknowledged the release; client will share a new date next week. Nothing to hold or chase. |
 | 16 Sep | Alicia Erickson (journalist, "Hotels Above Par") | Nairobi city guide feature — press opportunity | Freelance writer reached out about including TSH in a Nairobi guide. Anibal forwarded to Sam, Sam's forwarded to Pauline for Marketing to run with. |
 | 16 Sep | Dominic Manono (FOH), to Finance | RnB double payment flagged in night audit | Last night's audit found a duplicate M-Pesa payment on a guest check (The Other Room). Needs Stephen/Finance to confirm and process the reversal. |
 | 15 Sep | Hoteza (in-room ordering system) | Repeated "overdue shop order" alerts | Seven separate overdue-order alerts landed within about 90 minutes this evening. Worth a check with FOH/RNB on whether in-room guest orders are being fulfilled on time tonight. |
@@ -27,11 +29,11 @@ Last refreshed: 2026-09-16T09:41Z
 | 15 Sep | SNV (via Denis Muthuri) | Dinner reservation, 23 Sept, INCA | Quotation sent for a corporate team dinner. Awaiting client confirmation. |
 | 15 Sep | Alba Hotels / FCM Travel (via Denis Muthuri) | SSPS Sponsors Appreciation Cocktail | Booking confirmed, final menu locked in today within the client's agreed budget. Cross-property (Alba) win — no action needed unless FCM comes back with changes. |
 | 15 Sep | Jays Wines (Accounts) | Account statement — pending payments | Supplier sent a statement of account to Procurement (shem@), cc Sam, chasing pending payments. Needs a status check and reply from Procurement/Finance. |
-| 15 Sep | Baobab Impact (via Sales) | Catering quote, 18 Sept meeting | Client is pushing to close today — asked to confirm the quotation is final by end of day. Needs a same-day yes/no from Sam or Sales. |
+| 15 Sep | Baobab Impact (via Sales) | Catering quote, 18 Sept meeting | **Closed.** Payment confirmation shared and acknowledged by Gerald this morning. No further action. |
 | 15 Sep | Corporate guest, prior-stay billing dispute | Refund still open | Guest has now chased twice (10 Sept, 15 Sept) for confirmation that a billing-error refund has gone through. Overdue — close it out today to protect the relationship. |
 | 15 Sep | Gulf Energy (via Denis Muthuri) | Conference booking, 16 Sept (GEBV) | **Confirmed.** Today's Daily Urgent Brief lists it as going ahead 9:30 AM–5:00 PM for 16 guests. No further action unless something changes on the day. |
 | 16 Sep | Samuel Wanjau (IT), to Safaricom | Internet/data capacity discussion | Following up an earlier on-demand bandwidth upgrade request, Wanjau's asked Safaricom to discuss data capacity generally. Worth keeping an eye on given today's Gulf Energy conference depends on reliable connectivity. |
-| 15 Sep | Gerald Githiari (Sales) | Banquet Event Orders, 15 & 16 Sept | Six revisions on the 15th's BEO since 11 Sept, and the 16th's BEO already has one revision the same day it was issued. Worth a quick check with Gerald on which version each outlet is executing against. |
+| 15 Sep | Gerald Githiari / Linda Kirimi (Sales) | Banquet Event Orders, 15, 16 & 17 Sept | Six revisions on the 15th's BEO, a revision on the 16th's, and now the 17th's BEO went out with a follow-up menu then a "please disregard" retraction. Worth a quick check on which version each outlet is executing against for all three days. |
 | 15 Sep | Samuel Wanjau / AV vendor / Finance | In-house sound system down (BGM feedback noise) | Escalated since 14 Sept, cc'd to Juliet. Vendor quote accepted, PO being raised with Finance; system still down as of this morning — guest ambience impact continues. |
 | 15 Sep | Vending Services | Price increment notice | Revised order pad and pricing received today. Needs procurement/finance review and a decision to accept or push back — figures not reproduced here. |
 | 15 Sep | Google Business Profile | New review for Inca (from "David") | Fresh public review landed today. Worth a read and a response if it needs one, same as the TripAdvisor feed. |
@@ -74,7 +76,7 @@ One line per category, not one per daily instance.
 - TripAdvisor "get more reviews" upsell email and a Claude mobile app promo — vendor marketing, not logged as deliverables.
 - Low-materiality internal admin notices (e.g. juice container returns, transport requests, PD calendar notices, Google Business Profile photo-add alerts) — filed but not worth a deliverable row.
 - Tooling/account notices from Sam's own new Granola sign-up (welcome email, security alert, self-sent note link) — personal tooling, not TSH business.
-- Cold sales outreach (a grocery supplier pitch, a restaurant-tech platform pitch sent twice, a hospitality networking app promo) and a routine SevenRooms login verification code — not deliverables.
+- Cold sales outreach (a grocery supplier pitch, a restaurant-tech platform pitch sent twice, a hospitality networking app promo, a South African wine/spirits brand marketing pitch) and a routine SevenRooms login verification code — not deliverables.
 
 ---
 
