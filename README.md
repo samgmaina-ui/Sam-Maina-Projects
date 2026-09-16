@@ -2,7 +2,7 @@
 
 Auto-generated catalogue of inbox activity for samgmaina@gmail.com / samuel@thesocialhouse.ke, scoped to 15–21 Sept 2026. Refreshed every 3 hours. Recurring operational mail is collapsed into one line per category (see below); only non-repeated items and items carrying a deliverable are listed individually. Real revenue, cost, margin and occupancy figures are redacted per standing policy — check the source system for exact numbers.
 
-Last refreshed: 2026-09-16T00:41Z
+Last refreshed: 2026-09-16T03:41Z
 
 ---
 
@@ -15,6 +15,7 @@ Last refreshed: 2026-09-16T00:41Z
 
 | Date | From | Subject | What it needs |
 |---|---|---|---|
+| 16 Sep | Dominic Manono (FOH), to Finance | RnB double payment flagged in night audit | Last night's audit found a duplicate M-Pesa payment on a guest check (The Other Room). Needs Stephen/Finance to confirm and process the reversal. |
 | 15 Sep | Hoteza (in-room ordering system) | Repeated "overdue shop order" alerts | Seven separate overdue-order alerts landed within about 90 minutes this evening. Worth a check with FOH/RNB on whether in-room guest orders are being fulfilled on time tonight. |
 | 15 Sep | TripAdvisor | Travelers' Choice Awards win | Good news — one of the outlets has won a Travelers' Choice Award. Worth a quick decision with Marketing/Pauline on how and where to announce it. |
 | 15 Sep | Janet Kangethe (Beverage) | Weekly beverage order — urgent stock-out risk | Flagged urgent by Janet: multiple items out of stock, the rest at dangerously low levels. Sent to Finance for the order — needs fast sign-off to avoid outlets running dry. |
@@ -57,6 +58,8 @@ One line per category, not one per daily instance.
 | Banquet Event Orders (BEO), per event | Gerald Githiari (Sales) | Per event, revised as details firm up | Normal cadence; only flagged above when an imminent event's final version isn't clear |
 | Guest Relations (GRO) reports | Abigail Waweru (Guest Relations) | Daily | Routine, filed |
 | Sales inquiry lead handoffs (FOH → Sales) | Beautiful People FOH, Gerald Githiari | As inquiries come in | Routine intake; today's example was a gin-party event follow-up from Talent Africa Group — distinct from the Malfy Gin lead already flagged |
+| Bills left in the system | Dominic Manono (FOH) | As they occur | Routine nightly exception list; small amounts, figures redacted here — flagged separately above only when it's something larger like a double payment |
+| New Google Business reviews | businessprofile-noreply@google.com | As they land | Informational; latest was for Copper. Same treatment as the TripAdvisor feed — worth a read, respond if it needs one |
 
 ## Excluded as noise
 
