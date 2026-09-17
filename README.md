@@ -2,7 +2,7 @@
 
 Auto-generated catalogue of inbox activity for samgmaina@gmail.com / samuel@thesocialhouse.ke, scoped to 15–21 Sept 2026. Refreshed every 3 hours. Recurring operational mail is collapsed into one line per category (see below); only non-repeated items and items carrying a deliverable are listed individually. Real revenue, cost, margin and occupancy figures are redacted per standing policy — check the source system for exact numbers.
 
-Last refreshed: 2026-09-17T06:41Z
+Last refreshed: 2026-09-17T09:41Z
 
 ---
 
@@ -15,7 +15,8 @@ Last refreshed: 2026-09-17T06:41Z
 
 | Date | From | Subject | What it needs |
 |---|---|---|---|
-| 17 Sep | Joseph Mutinda (Auditor) | Milk spoilage at the bars | Cost-control flag: 13 litres of spoiled milk disposed of at Living Room bar, notable given the nationwide milk shortage. Sam has acknowledged and confirmed it will be actioned — no further tracking needed unless it recurs. |
+| 17 Sep | Angela Etale (FOH), to Sam | Guest contact shared re: Room 318 | A guest's phone/email was passed to Sam directly, marked important; reason not stated in the message itself. Worth a quick check on what follow-up it needs. |
+| 17 Sep | Joseph Mutinda (Auditor) | Milk spoilage at the bars | **Owner assigned.** Cost-control flag: 13 litres of spoiled milk disposed of at Living Room bar, notable given the nationwide milk shortage. Sam acknowledged; Winnie has now tasked Jackline Wangui (PD) with following up for action. |
 | 16 Sep | Praxis (via Nadine, Sales lead Linda) | Private dinner inquiry, 27 Oct | Quote and TOR space sent since 3 Sept; client's now asking about AV capabilities and menu options. Needs a reply from Sales to keep it moving. |
 | 16 Sep | Energy Alliance (GEA, via Trizah Maina) | New quotation request — multi-day catering, int'l guests | Separate from the existing workshop lunch quote: a new request for catering across several days for a mixed German/American/African guest group. Needs a quotation from Denis/Sales. |
 | 16 Sep | iOpener Limited (external pitch, cc Michelle) | "1 House, 7 Days, 7 Men, 7 Meals, 7 Stories" concept pitch | Third follow-up since 3 Sept on an International Men's Day activation idea — still no reply from Sam. Needs at minimum a yes/no so they stop chasing. |
@@ -35,7 +36,7 @@ Last refreshed: 2026-09-17T06:41Z
 | 15 Sep | Corporate guest, prior-stay billing dispute | Refund still open | Guest has now chased twice (10 Sept, 15 Sept) for confirmation that a billing-error refund has gone through. Overdue — close it out today to protect the relationship. |
 | 15 Sep | Gulf Energy (via Denis Muthuri) | Conference booking, 16 Sept (GEBV) | **Confirmed.** Today's Daily Urgent Brief lists it as going ahead 9:30 AM–5:00 PM for 16 guests. No further action unless something changes on the day. |
 | 16 Sep | Samuel Wanjau (IT), to Safaricom | Internet/data capacity discussion | Following up an earlier on-demand bandwidth upgrade request, Wanjau's asked Safaricom to discuss data capacity generally. Worth keeping an eye on given today's Gulf Energy conference depends on reliable connectivity. |
-| 15 Sep | Gerald Githiari / Linda Kirimi (Sales) | Banquet Event Orders, 15, 16 & 17 Sept | Six revisions on the 15th's BEO, a revision on the 16th's, and now the 17th's BEO went out with a follow-up menu then a "please disregard" retraction. Worth a quick check on which version each outlet is executing against for all three days. |
+| 15 Sep | Gerald Githiari / Linda Kirimi (Sales) | Banquet Event Orders, 15–18 Sept | Six revisions on the 15th's BEO, a revision on the 16th's, the 17th's went out then was partly retracted, and now the 18th's BEO has an additional order needing ICT to provide a screen and PA system. Worth a quick check on which version each outlet is executing against and that ICT has what it needs for the 18th. |
 | 15 Sep | Samuel Wanjau / AV vendor / Finance | In-house sound system down (BGM feedback noise) | Escalated since 14 Sept, cc'd to Juliet. Vendor quote accepted, PO being raised with Finance; system still down as of this morning — guest ambience impact continues. |
 | 15 Sep | Vending Services | Price increment notice | Revised order pad and pricing received today. Needs procurement/finance review and a decision to accept or push back — figures not reproduced here. |
 | 15 Sep | Google Business Profile | New review for Inca (from "David") | Fresh public review landed today. Worth a read and a response if it needs one, same as the TripAdvisor feed. |
@@ -55,7 +56,7 @@ One line per category, not one per daily instance.
 
 | Category | Typical senders | Cadence | Status |
 |---|---|---|---|
-| Outlet & area checklists (Living Room, Studio, Garage, Library, Shed) | Angela Etale, Victoria Akinyi, Sparklers team, Gerald Githiari, Joy Orina | Daily | Routine, filed, no exceptions flagged this week |
+| Outlet & area checklists (Living Room, Studio, Garage, Library, Shed, The Snug) | Angela Etale, Victoria Akinyi, Sparklers team, Gerald Githiari, Joy Orina, Marketing | Daily | Routine, filed, no exceptions flagged this week |
 | Morning Brief Report (R&B Coordinator to PD; L&D compliance tracker) | Joy Orina; Mercy Wambui (L&D) | Daily | Routine, filed; L&D version tracks which departments haven't submitted their briefs yet |
 | Performance appraisal reminders (Brand Assessment & KPIs, Upande ESS) | Winnie Wamungu / Faith Menya (People Development) | Periodic during appraisal cycle | Needs each HOD, Sam included, to log assessments/KPIs in the system — not urgent today but don't let it lapse |
 | Shift & handover reports (C Shift Handover, Night Manager's Report, POMEC Shift C, MOD Checklist) | Beautiful People FOH, FOH Titans (Victor Karume), The Makers, Housekeeping | Daily | Routine, filed |
