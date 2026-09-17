@@ -2,7 +2,7 @@
 
 Auto-generated catalogue of inbox activity for samgmaina@gmail.com / samuel@thesocialhouse.ke, scoped to 15–21 Sept 2026. Refreshed every 3 hours. Recurring operational mail is collapsed into one line per category (see below); only non-repeated items and items carrying a deliverable are listed individually. Real revenue, cost, margin and occupancy figures are redacted per standing policy — check the source system for exact numbers.
 
-Last refreshed: 2026-09-17T15:41Z
+Last refreshed: 2026-09-17T18:41Z
 
 ---
 
@@ -18,7 +18,7 @@ Table trimmed periodically as items close — see "Resolved this week" below for
 | Date | From | Subject | What it needs |
 |---|---|---|---|
 | 17 Sep | Angela Etale (FOH), to Sam | Guest contact shared re: Room 318 | A guest's phone/email was passed to Sam directly, marked important; reason not stated in the message itself. Worth a quick check on what follow-up it needs. |
-| 17 Sep | Linda Kirimi (Sales) | Quote sent to Matatu Migration | New outbound quotation following a discussion with a colleague. Awaiting client response. |
+| 17 Sep | Linda Kirimi / Janet Kangethe (Sales/Beverage) | Matatu Migration — quote and event drink menu sent | Quotation sent, then a full welcome cocktail/mocktail menu with production costs went out this evening (cc Michelle, Events). Live event lead progressing — awaiting client response. |
 | 17 Sep | Nicole Okech (Beverage) / Fridah (Finance) | 254 Brewing invoice reconciliation | Supplier sent an invoice; Fridah's asked for a clean statement of just the outstanding items before paying. Awaiting supplier's reply. |
 | 17 Sep | RnB Supervisors vs. Security (Regiment) | Room service phone handover schedule dispute | Supervisors proposed moving the handover to 6am; Security pushed back on accountability grounds. Worth a look if the two teams can't agree between themselves. |
 | 16 Sep | Praxis (via Nadine, Sales lead Linda) | Private dinner inquiry, 27 Oct | Quote and TOR space sent since 3 Sept; client's now asking about AV capabilities and menu options. Needs a reply from Sales to keep it moving. |
