@@ -2,7 +2,7 @@
 
 Auto-generated catalogue of inbox activity for samgmaina@gmail.com / samuel@thesocialhouse.ke, scoped to 15–21 Sept 2026. Refreshed every 3 hours. Recurring operational mail is collapsed into one line per category (see below); only non-repeated items and items carrying a deliverable are listed individually. Real revenue, cost, margin and occupancy figures are redacted per standing policy — check the source system for exact numbers.
 
-Last refreshed: 2026-09-17T12:41Z
+Last refreshed: 2026-09-17T15:41Z
 
 ---
 
@@ -89,6 +89,7 @@ One line per category, not one per daily instance.
 - Booking.com and SevenRooms marketing newsletters, a Formula 1 fan newsletter, a job application for a bartending attachment, and a routine ABSA receipt-reconciliation request (handled by Joy as before) — filed, not logged individually.
 - Secret Garden booking for Shuga Global confirmed for 18 Sept — no action needed.
 - A cold "website audit" pitch and a TestFlight app-testing invite (sent twice) landed on talktous@ — not deliverables.
+- A cold meat-supplier pitch, a repeat trade-media marketing sender, and a routine Uber trip notification — not deliverables.
 
 ---
 
