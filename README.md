@@ -2,7 +2,7 @@
 
 Auto-generated catalogue of inbox activity for samgmaina@gmail.com / samuel@thesocialhouse.ke, scoped to 15–21 Sept 2026. Refreshed every 3 hours. Recurring operational mail is collapsed into one line per category (see below); only non-repeated items and items carrying a deliverable are listed individually. Real revenue, cost, margin and occupancy figures are redacted per standing policy — check the source system for exact numbers.
 
-Last refreshed: 2026-09-17T09:41Z
+Last refreshed: 2026-09-17T12:41Z
 
 ---
 
@@ -11,44 +11,50 @@ Last refreshed: 2026-09-17T09:41Z
 - **Possible refund scam.** A recurring external sender ("LuCuLuC", claiming diplomatic VAT status after a Copper meal) has resurfaced a months-old thread with a request to reimburse them directly to an M-Pesa number or personal bank account, citing a KRA authorization. Sam has already forwarded it to Stephen and Fridah in Finance asking them to advise — flagging here so it doesn't get treated as routine. Recommend: do not transfer anything until Finance independently verifies the KRA paperwork and the requester's identity through official channels, not the details supplied in the email.
 - **McKinsey outside catering — account-risk feedback, already in motion.** Janet Wachira relayed detailed feedback today from McKinsey's event organizer on outside catering: buffet presentation seen as too basic, chafing dishes overheating and leaking, noisy/unstable lids, worn and rusty inserts, a gap between menu photos and what's served, lunch portioning inconsistent with guest counts, worn hot-beverage flasks, and a need for a proper catering trolley. McKinsey did praise punctuality and setup readiness. Sam already held a menu meeting with Juliet the same day, circulated menu proposals and proposed equipment upgrades (better chafing dishes, electric tea urns) to the culinary team and an external chef contact, and Anibal has asked that future menu proposals include an estimated selling price alongside. Given McKinsey is a "handle with care" account, worth confirming the equipment and menu fixes have owners and dates. **Update:** Sam emailed Austine directly this evening naming the equipment (flasks, chafing dishes, a tea urn) and Austine confirmed he'll review quotes and align — an owner is now assigned on the equipment side.
 
-## Key deliverables and one-off items
+## Key deliverables and one-off items (open)
+
+Table trimmed periodically as items close — see "Resolved this week" below for what's been dealt with. Several rows trace conversations that started before this week's window but had new, actionable activity land within it.
 
 | Date | From | Subject | What it needs |
 |---|---|---|---|
 | 17 Sep | Angela Etale (FOH), to Sam | Guest contact shared re: Room 318 | A guest's phone/email was passed to Sam directly, marked important; reason not stated in the message itself. Worth a quick check on what follow-up it needs. |
-| 17 Sep | Joseph Mutinda (Auditor) | Milk spoilage at the bars | **Owner assigned.** Cost-control flag: 13 litres of spoiled milk disposed of at Living Room bar, notable given the nationwide milk shortage. Sam acknowledged; Winnie has now tasked Jackline Wangui (PD) with following up for action. |
+| 17 Sep | Linda Kirimi (Sales) | Quote sent to Matatu Migration | New outbound quotation following a discussion with a colleague. Awaiting client response. |
+| 17 Sep | Nicole Okech (Beverage) / Fridah (Finance) | 254 Brewing invoice reconciliation | Supplier sent an invoice; Fridah's asked for a clean statement of just the outstanding items before paying. Awaiting supplier's reply. |
+| 17 Sep | RnB Supervisors vs. Security (Regiment) | Room service phone handover schedule dispute | Supervisors proposed moving the handover to 6am; Security pushed back on accountability grounds. Worth a look if the two teams can't agree between themselves. |
 | 16 Sep | Praxis (via Nadine, Sales lead Linda) | Private dinner inquiry, 27 Oct | Quote and TOR space sent since 3 Sept; client's now asking about AV capabilities and menu options. Needs a reply from Sales to keep it moving. |
 | 16 Sep | Energy Alliance (GEA, via Trizah Maina) | New quotation request — multi-day catering, int'l guests | Separate from the existing workshop lunch quote: a new request for catering across several days for a mixed German/American/African guest group. Needs a quotation from Denis/Sales. |
 | 16 Sep | iOpener Limited (external pitch, cc Michelle) | "1 House, 7 Days, 7 Men, 7 Meals, 7 Stories" concept pitch | Third follow-up since 3 Sept on an International Men's Day activation idea — still no reply from Sam. Needs at minimum a yes/no so they stop chasing. |
 | 16 Sep | Vivo Energy | New booking request, TOR, 23 Sept | Client has reserved The Other Room for 35 pax from 7pm, final numbers to follow. **Sam has replied** with a quotation — awaiting client confirmation. |
-| 16 Sep | PwC (via Martin) | TOR buffet dinner, 18 Sept — booking released | **Closed.** Martin acknowledged the release; client will share a new date next week. Nothing to hold or chase. |
 | 16 Sep | Alicia Erickson (journalist, "Hotels Above Par") | Nairobi city guide feature — press opportunity | Freelance writer reached out about including TSH in a Nairobi guide. Anibal forwarded to Sam, Sam's forwarded to Pauline for Marketing to run with. |
 | 16 Sep | Dominic Manono (FOH), to Finance | RnB double payment flagged in night audit | Last night's audit found a duplicate M-Pesa payment on a guest check (The Other Room). Needs Stephen/Finance to confirm and process the reversal. |
-| 15–16 Sep | Hoteza (in-room ordering system) | Repeated "overdue shop order" alerts, two evenings running | Seven alerts on the 15th, and more landed again this evening (16th) — same pattern, not a one-off. Worth asking FOH/RNB whether this is a fulfillment problem or the system flagging normally-timed orders as overdue. |
+| 15–16 Sep | Hoteza (in-room ordering system) | Repeated "overdue shop order" alerts, two evenings running | Seven alerts on the 15th, and more landed again the next evening — same pattern, not a one-off. Worth asking FOH/RNB whether this is a fulfillment problem or the system flagging normally-timed orders as overdue. |
 | 15 Sep | TripAdvisor | Travelers' Choice Awards win | Good news — one of the outlets has won a Travelers' Choice Award. Worth a quick decision with Marketing/Pauline on how and where to announce it. |
 | 15 Sep | Janet Kangethe (Beverage) | Weekly beverage order — urgent stock-out risk | Flagged urgent by Janet: multiple items out of stock, the rest at dangerously low levels. Sent to Finance for the order — needs fast sign-off to avoid outlets running dry. |
 | 15 Sep | Omnicom (travel agent, via talktous@) | Corporate rate request, stay 27 Sept–1 Oct | Travel agent requesting a quote for a corporate guest's stay. Needs a rate reply from Reservations. |
 | 15 Sep | HODs (fwd via Winnie) | Staff hoodies — HODs & Sales Team | Internal ask for HOD input on how to handle a staff hoodies decision. Needs Sam's view along with the other HODs. |
 | 15 Sep | SNV (via Denis Muthuri) | Dinner reservation, 23 Sept, INCA | Quotation sent for a corporate team dinner. Awaiting client confirmation. |
-| 15 Sep | Alba Hotels / FCM Travel (via Denis Muthuri) | SSPS Sponsors Appreciation Cocktail | Booking confirmed, final menu locked in today within the client's agreed budget. Cross-property (Alba) win — no action needed unless FCM comes back with changes. |
 | 15 Sep | Jays Wines (Accounts) | Account statement — pending payments | Supplier sent a statement of account to Procurement (shem@), cc Sam, chasing pending payments. Needs a status check and reply from Procurement/Finance. |
-| 15 Sep | Baobab Impact (via Sales) | Catering quote, 18 Sept meeting | **Closed and in execution.** Payment confirmed; Austine has now arranged chafing dish and tea urn hire for Friday's Westlands Pavilion breakfast — the same equipment upgrade proposed for McKinsey is being put into practice here first. |
-| 15 Sep | Corporate guest, prior-stay billing dispute | Refund still open | Guest has now chased twice (10 Sept, 15 Sept) for confirmation that a billing-error refund has gone through. Overdue — close it out today to protect the relationship. |
-| 15 Sep | Gulf Energy (via Denis Muthuri) | Conference booking, 16 Sept (GEBV) | **Confirmed.** Today's Daily Urgent Brief lists it as going ahead 9:30 AM–5:00 PM for 16 guests. No further action unless something changes on the day. |
-| 16 Sep | Samuel Wanjau (IT), to Safaricom | Internet/data capacity discussion | Following up an earlier on-demand bandwidth upgrade request, Wanjau's asked Safaricom to discuss data capacity generally. Worth keeping an eye on given today's Gulf Energy conference depends on reliable connectivity. |
-| 15 Sep | Gerald Githiari / Linda Kirimi (Sales) | Banquet Event Orders, 15–18 Sept | Six revisions on the 15th's BEO, a revision on the 16th's, the 17th's went out then was partly retracted, and now the 18th's BEO has an additional order needing ICT to provide a screen and PA system. Worth a quick check on which version each outlet is executing against and that ICT has what it needs for the 18th. |
-| 15 Sep | Samuel Wanjau / AV vendor / Finance | In-house sound system down (BGM feedback noise) | Escalated since 14 Sept, cc'd to Juliet. Vendor quote accepted, PO being raised with Finance; system still down as of this morning — guest ambience impact continues. |
-| 15 Sep | Vending Services | Price increment notice | Revised order pad and pricing received today. Needs procurement/finance review and a decision to accept or push back — figures not reproduced here. |
-| 15 Sep | Google Business Profile | New review for Inca (from "David") | Fresh public review landed today. Worth a read and a response if it needs one, same as the TripAdvisor feed. |
+| 16 Sep | Samuel Wanjau (IT), to Safaricom | Internet/data capacity discussion | Following up an earlier on-demand bandwidth upgrade request, Wanjau's asked Safaricom to discuss data capacity generally. |
+| 15 Sep | Gerald Githiari / Linda Kirimi (Sales) | Banquet Event Orders, 15–18 Sept | Six revisions on the 15th's BEO, a revision on the 16th's, the 17th's went out then was partly retracted, and the 18th's has an additional order needing ICT to provide a screen and PA system. Worth a quick check on which version each outlet is executing against and that ICT has what it needs. |
+| 15 Sep | Samuel Wanjau / AV vendor / Finance | In-house sound system down (BGM feedback noise) | Escalated since 14 Sept, cc'd to Juliet. Vendor quote accepted, PO being raised with Finance; system still down as of last check — guest ambience impact continues. |
+| 15 Sep | Vending Services | Price increment notice | Revised order pad and pricing received. Needs procurement/finance review and a decision to accept or push back — figures not reproduced here. |
 | 15 Sep | Rose Mugambi (Sales, forwarded lead) | Partnership inquiry — Malfy Gin day party, ~400 guests (Nov/Dec) | New inbound partnership opportunity for later in the year. Needs a go/no-go read before it's worked up into a proposal. |
-| 15 Sep | Denis Muthuri (Sales) | Energy Alliance workshop lunch quote (21–25 Sept) | Amended quotation sent to client, who has confirmed receipt and is reviewing. Awaiting client sign-off — chase if no confirmation lands in a day or two. |
-| 15 Sep | Gerald Githiari (Sales) | Private event venue quotation | **Closed.** Client confirmed and deposit has landed (confirmed by M-Pesa reference, figure redacted here) for a revised 6-pax booking. No further action. |
-| 15 Sep | Jackline Wangui (People Development) | Barista interviews, today 10:00–13:00 | Five candidates scheduled today via Google Meet. No action needed from Sam unless a panelist drops out. |
+| 15 Sep | Denis Muthuri (Sales) | Energy Alliance workshop lunch quote (21–25 Sept) | Amended quotation sent to client, who has confirmed receipt and is reviewing. Awaiting client sign-off — chase if no confirmation lands soon. |
 | 15 Sep | Lynda Claris (People Development) | Complaints Tracking 14-09-2026 | Open POMEC facilities issue: canteen wash-up tap leaking, no hot water. Needs an owner and an ETA from Engineering. |
 | 15 Sep | Lynda Claris (People Development) | TripAdvisor Team Review Scoreboard, as of 14 Sept | Guest-sentiment KPI feed for the reputation recovery plan. Review and push R&B-relevant lines to outlet leads. |
-| 15 Sep | External guest, via talktous@ | Copper reservation — cancellation request | Guest asked to cancel a Copper reservation. Sam replied and confirmed. Closed, no further action. |
 
-Note: several rows above trace conversations that started before this week's window but had new, actionable activity land today — included because the deliverable is live now, not because the thread is new.
+## Resolved this week
+
+- **Refund (prior-stay billing dispute):** Fridah initiated a credit card refund on 17 Sept, closing out the item flagged on 15–16 Sept. Worth a final check that it landed on the guest's card.
+- **Milk spoilage at the bars (17 Sep):** owner assigned — Jackline Wangui (PD) tasked to follow up.
+- **PwC TOR buffet dinner booking release (16 Sep):** acknowledged by Martin, client will confirm a new date later.
+- **Baobab Impact catering deal (15 Sep):** payment confirmed; equipment (chafing dishes, tea urn) hired for the Pavilion breakfast.
+- **Gulf Energy conference (16 Sep):** went ahead as booked.
+- **Private event venue quotation (15 Sep):** deposit landed, booking locked.
+- **Copper reservation cancellation (15 Sep):** guest cancellation confirmed, closed.
+- **Alba Hotels / FCM Sponsors Appreciation Cocktail (15 Sep):** booking confirmed, menu finalized within budget.
+- **Barista interviews (15 Sep):** held as scheduled.
+- **New Google review for Inca (15 Sep):** filed — see the routine "New Google Business reviews" row below for ongoing instances.
 
 ## Recurring / routine mail (deduped)
 
