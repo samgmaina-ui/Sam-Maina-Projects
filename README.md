@@ -2,7 +2,7 @@
 
 Auto-generated catalogue of inbox activity for samgmaina@gmail.com / samuel@thesocialhouse.ke, scoped to 15–21 Sept 2026. Refreshed every 3 hours. Recurring operational mail is collapsed into one line per category (see below); only non-repeated items and items carrying a deliverable are listed individually. Real revenue, cost, margin and occupancy figures are redacted per standing policy — check the source system for exact numbers.
 
-Last refreshed: 2026-09-16T18:41Z
+Last refreshed: 2026-09-17T00:41Z
 
 ---
 
@@ -15,6 +15,7 @@ Last refreshed: 2026-09-16T18:41Z
 
 | Date | From | Subject | What it needs |
 |---|---|---|---|
+| 16 Sep | Praxis (via Nadine, Sales lead Linda) | Private dinner inquiry, 27 Oct | Quote and TOR space sent since 3 Sept; client's now asking about AV capabilities and menu options. Needs a reply from Sales to keep it moving. |
 | 16 Sep | Energy Alliance (GEA, via Trizah Maina) | New quotation request — multi-day catering, int'l guests | Separate from the existing workshop lunch quote: a new request for catering across several days for a mixed German/American/African guest group. Needs a quotation from Denis/Sales. |
 | 16 Sep | iOpener Limited (external pitch, cc Michelle) | "1 House, 7 Days, 7 Men, 7 Meals, 7 Stories" concept pitch | Third follow-up since 3 Sept on an International Men's Day activation idea — still no reply from Sam. Needs at minimum a yes/no so they stop chasing. |
 | 16 Sep | Vivo Energy | New booking request, TOR, 23 Sept | Client has reserved The Other Room for 35 pax from 7pm, final numbers to follow. **Sam has replied** with a quotation — awaiting client confirmation. |
