@@ -2,7 +2,7 @@
 
 Auto-generated catalogue of inbox activity for samgmaina@gmail.com / samuel@thesocialhouse.ke, scoped to 15–21 Sept 2026. Refreshed every 3 hours. Recurring operational mail is collapsed into one line per category (see below); only non-repeated items and items carrying a deliverable are listed individually. Real revenue, cost, margin and occupancy figures are redacted per standing policy — check the source system for exact numbers.
 
-Last refreshed: 2026-09-17T18:41Z
+Last refreshed: 2026-09-17T21:41Z
 
 ---
 
@@ -77,6 +77,7 @@ One line per category, not one per daily instance.
 | Sales inquiry lead handoffs (FOH → Sales) | Beautiful People FOH, Gerald Githiari | As inquiries come in | Routine intake; today's example was a gin-party event follow-up from Talent Africa Group — distinct from the Malfy Gin lead already flagged |
 | Bills left in the system | Dominic Manono (FOH) | As they occur | Routine nightly exception list; small amounts, figures redacted here — flagged separately above only when it's something larger like a double payment |
 | New Google Business reviews | businessprofile-noreply@google.com | As they land | Informational; latest was for Copper. Same treatment as the TripAdvisor feed — worth a read, respond if it needs one |
+| TOR month-to-date performance report | RnB Supervisors (Allan & Liz) | Weekly/monthly | Routine, to a wide leadership cc including Peter Brainch — filed |
 
 ## Excluded as noise
 
@@ -90,6 +91,7 @@ One line per category, not one per daily instance.
 - Secret Garden booking for Shuga Global confirmed for 18 Sept — no action needed.
 - A cold "website audit" pitch and a TestFlight app-testing invite (sent twice) landed on talktous@ — not deliverables.
 - A cold meat-supplier pitch, a repeat trade-media marketing sender, and a routine Uber trip notification — not deliverables.
+- A cold roofing-materials pitch (Tanzania-based supplier) and a "partnership by invitation" pitch from a luxury travel club addressed to Juliet — both read as external marketing outreach rather than deliverables; flagging the latter only because it named Juliet specifically, in case she wants to see it herself.
 
 ---
 
