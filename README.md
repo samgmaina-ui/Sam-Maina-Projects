@@ -2,7 +2,7 @@
 
 Auto-generated catalogue of inbox activity for samgmaina@gmail.com / samuel@thesocialhouse.ke, scoped to 15–21 Sept 2026. Refreshed every 3 hours. Recurring operational mail is collapsed into one line per category (see below); only non-repeated items and items carrying a deliverable are listed individually. Real revenue, cost, margin and occupancy figures are redacted per standing policy — check the source system for exact numbers.
 
-Last refreshed: 2026-09-18T06:41Z
+Last refreshed: 2026-09-18T09:41Z
 
 ---
 
@@ -40,8 +40,10 @@ Table trimmed periodically as items close — see "Resolved this week" below for
 | 15 Sep | Vending Services | Price increment notice | Revised order pad and pricing received. Needs procurement/finance review and a decision to accept or push back — figures not reproduced here. |
 | 15 Sep | Rose Mugambi (Sales, forwarded lead) | Partnership inquiry — Malfy Gin day party, ~400 guests (Nov/Dec) | New inbound partnership opportunity for later in the year. Needs a go/no-go read before it's worked up into a proposal. |
 | 15 Sep | Denis Muthuri (Sales) | Energy Alliance workshop lunch quote (21–25 Sept) | Amended quotation sent to client, who has confirmed receipt and is reviewing. Awaiting client sign-off — chase if no confirmation lands soon. |
-| 15 Sep | Lynda Claris (People Development) | Complaints Tracking 14-09-2026 | Open POMEC facilities issue: canteen wash-up tap leaking, no hot water. Needs an owner and an ETA from Engineering. |
+| 15 Sep | Lynda Claris (People Development) | Complaints Tracking, 14–17 Sept | Started as one open POMEC issue (canteen wash-up tap leaking, no hot water) and has grown by the 17th's report into a wider maintenance backlog: the Copper plate warmer and airfryer both down (airfryer's gas pipe on order from Trinity), a broken runners-station shelf, the Inca hostess desk needing refurbishment, a faulty ironer, an unresponsive washing-machine screen, laundry extractors not working, and a butchery walk-in freezer door not closing. Needs Engineering/POMEC to own a prioritized list with ETAs rather than each item being chased individually. |
 | 15 Sep | Lynda Claris (People Development) | TripAdvisor Team Review Scoreboard, as of 14 Sept | Guest-sentiment KPI feed for the reputation recovery plan. Review and push R&B-relevant lines to outlet leads. |
+| 18 Sep | Finance Intern (Joyrita), to DRR distribution | DRR report sent blank | Today's DRR (daily revenue report) circulation went out as an empty file; Janet Kangethe flagged it back to Finance the same morning. Needs Finance to resend a working copy — HODs are currently without today's numbers. |
+| 18 Sep | Natasha Njoroge (Edrington) / Indu Logistics | Corporate booking — client has no local KRA pin | On an existing Edrington-arranged booking (deposit already in motion), the actual client company (Indu Logistics) says it isn't locally registered and has no KRA pin to provide. Needs Finance/Sales to decide how to invoice and confirm the booking without one. |
 
 ## Resolved this week
 
@@ -55,6 +57,7 @@ Table trimmed periodically as items close — see "Resolved this week" below for
 - **Alba Hotels / FCM Sponsors Appreciation Cocktail (15 Sep):** booking confirmed, menu finalized within budget.
 - **Barista interviews (15 Sep):** held as scheduled.
 - **New Google review for Inca (15 Sep):** filed — see the routine "New Google Business reviews" row below for ongoing instances.
+- **Event seating request, 18 Sep (193 registrations):** Michelle confirmed 60 seats in The Shed with a flipchart same morning — closed within the hour, cc'd to Sam for visibility only.
 
 ## Recurring / routine mail (deduped)
 
