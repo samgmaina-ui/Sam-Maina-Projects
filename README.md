@@ -2,7 +2,7 @@
 
 Auto-generated catalogue of inbox activity for samgmaina@gmail.com / samuel@thesocialhouse.ke, scoped to 15–21 Sept 2026. Refreshed every 3 hours. Recurring operational mail is collapsed into one line per category (see below); only non-repeated items and items carrying a deliverable are listed individually. Real revenue, cost, margin and occupancy figures are redacted per standing policy — check the source system for exact numbers.
 
-Last refreshed: 2026-09-18T15:41Z
+Last refreshed: 2026-09-18T18:41Z
 
 ---
 
@@ -44,6 +44,8 @@ Table trimmed periodically as items close — see "Resolved this week" below for
 | 15 Sep | Lynda Claris (People Development) | TripAdvisor Team Review Scoreboard, as of 14 Sept | Guest-sentiment KPI feed for the reputation recovery plan. Review and push R&B-relevant lines to outlet leads. |
 | 18 Sep | Finance Intern (Joyrita), to DRR distribution | DRR report sent blank | Today's DRR (daily revenue report) circulation went out as an empty file; Janet Kangethe flagged it back to Finance the same morning. Needs Finance to resend a working copy — HODs are currently without today's numbers. |
 | 18 Sep | Natasha Njoroge (Edrington) / Indu Logistics | Corporate booking — client has no local KRA pin | On an existing Edrington-arranged booking (deposit already in motion), the actual client company (Indu Logistics) says it isn't locally registered and has no KRA pin to provide. Needs Finance/Sales to decide how to invoice and confirm the booking without one. |
+| 18 Sep | Fourteen Twenty (1420), Kampala venue management | Content-misuse complaint — Instagram account misrepresenting a Nairobi event as theirs | A Kampala venue says an Instagram account (@popandlocknbo) is using their venue's footage to promote an event, implied to be a TSH one, without crediting or naming the real location. Framed respectfully, not as a threat, but needs Marketing/Pauline to check the account's TSH connection and get the footage corrected or credited. |
+| 18 Sep | Beth Njuki (Embassy of Peru) / Anibal | New embassy event lead — Peru photography exhibition opening, 22 Oct, ~50 guests | Anibal has replied confirming TSH will host and is preparing a Peru-themed menu proposal and quotation; cc's Alba Hotels' Dennis Muthuri. Needs the menu/quote to actually go out to keep it moving — follows the same embassy RFQ pattern as Mexico/Netherlands. |
 
 ## Resolved this week
 
