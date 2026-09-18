@@ -2,7 +2,7 @@
 
 Auto-generated catalogue of inbox activity for samgmaina@gmail.com / samuel@thesocialhouse.ke, scoped to 15–21 Sept 2026. Refreshed every 3 hours. Recurring operational mail is collapsed into one line per category (see below); only non-repeated items and items carrying a deliverable are listed individually. Real revenue, cost, margin and occupancy figures are redacted per standing policy — check the source system for exact numbers.
 
-Last refreshed: 2026-09-18T18:41Z
+Last refreshed: 2026-09-18T21:41Z
 
 ---
 
@@ -74,7 +74,7 @@ One line per category, not one per daily instance.
 | Night Audit / occupancy report | FOH Titans | Daily | Routine; figures redacted here, see Opera/night audit source |
 | Daily Safety & Security checklist / Job Cards | Ngeywa Edwin (Regiment) | Daily | Routine, filed |
 | Vibe Check Selection Program (guest experience programme) | Beautiful People FOH | Daily | Routine, informational, guest names not carried into this digest |
-| SevenRooms automated reservation summaries (TOR breakfast/lunch/dinner) | noreply@sevenrooms.com | Multiple times daily | Automated, informational |
+| SevenRooms automated summaries (TOR/Inca reservation counts by meal period; TOR daily guest satisfaction/review digest) | noreply@sevenrooms.com | Multiple times daily | Automated, informational |
 | Sam's own 06:00 Daily Urgent Email Brief (self-sent) | Samuel@thesocialhouse.ke | Daily | Sam's own workflow, not re-summarized here — see the original for today's priorities |
 | Service Charge Retention sheet | Faith Menya (People Development) | Monthly | Routine, figures redacted here |
 | Banquet Event Orders (BEO), per event | Gerald Githiari (Sales) | Per event, revised as details firm up | Normal cadence; only flagged above when an imminent event's final version isn't clear |
