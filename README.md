@@ -2,7 +2,7 @@
 
 Auto-generated catalogue of inbox activity for samgmaina@gmail.com / samuel@thesocialhouse.ke, scoped to 15–21 Sept 2026. Refreshed every 3 hours. Recurring operational mail is collapsed into one line per category (see below); only non-repeated items and items carrying a deliverable are listed individually. Real revenue, cost, margin and occupancy figures are redacted per standing policy — check the source system for exact numbers.
 
-Last refreshed: 2026-09-19T03:41Z
+Last refreshed: 2026-09-19T06:41Z
 
 ---
 
@@ -62,6 +62,7 @@ Table trimmed periodically as items close — see "Resolved this week" below for
 - **Barista interviews (15 Sep):** held as scheduled.
 - **New Google review for Inca (15 Sep):** filed — see the routine "New Google Business reviews" row below for ongoing instances.
 - **Event seating request, 18 Sep (193 registrations):** Michelle confirmed 60 seats in The Shed with a flipchart same morning — closed within the hour, cc'd to Sam for visibility only.
+- **Bills not matching, 18 Sep night audit (small POS discrepancies):** Sam forwarded it to Donela for investigation the same morning — owner assigned, no further action needed from Sam for now.
 
 ## Recurring / routine mail (deduped)
 
