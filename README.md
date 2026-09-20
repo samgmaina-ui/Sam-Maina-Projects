@@ -2,7 +2,7 @@
 
 Auto-generated catalogue of inbox activity for samgmaina@gmail.com / samuel@thesocialhouse.ke, scoped to 15–21 Sept 2026. Refreshed every 3 hours. Recurring operational mail is collapsed into one line per category (see below); only non-repeated items and items carrying a deliverable are listed individually. Real revenue, cost, margin and occupancy figures are redacted per standing policy — check the source system for exact numbers.
 
-Last refreshed: 2026-09-20T15:41Z
+Last refreshed: 2026-09-20T18:41Z
 
 ---
 
@@ -27,7 +27,7 @@ Table trimmed periodically as items close — see "Resolved this week" below for
 | 16 Sep | Vivo Energy | New booking request, TOR, 23 Sept | Client has reserved The Other Room for 35 pax from 7pm, final numbers to follow. **Sam has replied** with a quotation — awaiting client confirmation. |
 | 16 Sep | Alicia Erickson (journalist, "Hotels Above Par") | Nairobi city guide feature — press opportunity | Freelance writer reached out about including TSH in a Nairobi guide. Anibal forwarded to Sam, Sam's forwarded to Pauline for Marketing to run with. |
 | 16 Sep | Dominic Manono (FOH), to Finance | RnB double payment flagged in night audit | Last night's audit found a duplicate M-Pesa payment on a guest check (The Other Room). Needs Stephen/Finance to confirm and process the reversal. |
-| 15–18 Sep | Hoteza (in-room ordering system) | Repeated "overdue shop order" alerts, now three evenings running | Seven alerts on the 15th, more the next evening, and again on the 18th (one order alerted four times over ~35 minutes). Persistent enough now that it needs FOH/RNB to determine whether this is a fulfillment problem or the system misflagging normally-timed orders, rather than being read as one-off noise each time. |
+| 15–20 Sep | Hoteza (in-room ordering system) | Repeated "overdue shop order" alerts, now spanning several evenings | Seven alerts on the 15th, more the next evening, again on the 18th (one order alerted four times over ~35 minutes), and a further overdue/new service-request alert on the 20th for a specific guest (room 411). Persistent enough now that it needs FOH/RNB to determine whether this is a fulfillment problem or the system misflagging normally-timed requests, rather than being read as one-off noise each time. |
 | 15 Sep | TripAdvisor | Travelers' Choice Awards win | Good news — one of the outlets has won a Travelers' Choice Award. Worth a quick decision with Marketing/Pauline on how and where to announce it. |
 | 15 Sep | Janet Kangethe (Beverage) | Weekly beverage order — urgent stock-out risk | Flagged urgent by Janet: multiple items out of stock, the rest at dangerously low levels. Sent to Finance for the order — needs fast sign-off to avoid outlets running dry. |
 | 15 Sep | Omnicom (travel agent, via talktous@) | Corporate rate request, stay 27 Sept–1 Oct | Travel agent requesting a quote for a corporate guest's stay. Needs a rate reply from Reservations. |
@@ -49,6 +49,7 @@ Table trimmed periodically as items close — see "Resolved this week" below for
 | 18 Sep (night audit) | Dominic Manono (FOH) | Missing signed void — a sizeable amount unaccounted for | A guest's signed void form was not produced during last night's audit, on a moderately large check. Needs R&B leadership to advise next steps and locate or reconstruct the signed form. |
 | 18 Sep evening | Dominic Manono (FOH), to R&B leadership | Staff injury — Marafiki (Glass Washer, Inca) | Ferdinand sustained an injury moving to the back area at Inca; first aid was administered on the spot. Needs a proper incident report and a check that the standard follow-up (medical review, any WIBA/insurance step) is underway, not just a one-line note. |
 | 20 Sep | Lindsay Gray (guest), to talktous@ | Reservation confirmation + airport transfer request, stay 23–28 Sept | Guest emailed directly asking Reservations to confirm their upcoming stay is on file and to arrange an airport transfer. Needs a reply from Reservations/FOH. |
+| 20 Sep | Cynthia Hayes (owner, Hayes Executive Travel, US travel agency), to talktous@ | Travel-industry rate request ahead of a Nov site visit | Owner of a US corporate/luxury travel management company is requesting a travel-advisor/industry-preferred rate and airport-transfer guidance for a one-night stay 1–2 Nov, ahead of an ABTP familiarization trip. She's explicit that she's currently deciding which Nairobi properties to recommend to her US clientele — same pattern as the Omnicom/Safari Word Travel rate requests already tracked. Needs a rate reply from Sales/Reservations. |
 
 ## Resolved this week
 
