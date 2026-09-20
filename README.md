@@ -2,7 +2,7 @@
 
 Auto-generated catalogue of inbox activity for samgmaina@gmail.com / samuel@thesocialhouse.ke, scoped to 15–21 Sept 2026. Refreshed every 3 hours. Recurring operational mail is collapsed into one line per category (see below); only non-repeated items and items carrying a deliverable are listed individually. Real revenue, cost, margin and occupancy figures are redacted per standing policy — check the source system for exact numbers.
 
-Last refreshed: 2026-09-20T06:41Z
+Last refreshed: 2026-09-20T09:41Z
 
 ---
 
@@ -48,6 +48,7 @@ Table trimmed periodically as items close — see "Resolved this week" below for
 | 18 Sep | Beth Njuki (Embassy of Peru) / Anibal | New embassy event lead — Peru photography exhibition opening, 22 Oct, ~50 guests | Anibal has replied confirming TSH will host and is preparing a Peru-themed menu proposal and quotation; cc's Alba Hotels' Dennis Muthuri. Needs the menu/quote to actually go out to keep it moving — follows the same embassy RFQ pattern as Mexico/Netherlands. |
 | 18 Sep (night audit) | Dominic Manono (FOH) | Missing signed void — a sizeable amount unaccounted for | A guest's signed void form was not produced during last night's audit, on a moderately large check. Needs R&B leadership to advise next steps and locate or reconstruct the signed form. |
 | 18 Sep evening | Dominic Manono (FOH), to R&B leadership | Staff injury — Marafiki (Glass Washer, Inca) | Ferdinand sustained an injury moving to the back area at Inca; first aid was administered on the spot. Needs a proper incident report and a check that the standard follow-up (medical review, any WIBA/insurance step) is underway, not just a one-line note. |
+| 20 Sep | Lindsay Gray (guest), to talktous@ | Reservation confirmation + airport transfer request, stay 23–28 Sept | Guest emailed directly asking Reservations to confirm their upcoming stay is on file and to arrange an airport transfer. Needs a reply from Reservations/FOH. |
 
 ## Resolved this week
 
