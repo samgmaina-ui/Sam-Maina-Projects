@@ -2,7 +2,7 @@
 
 Auto-generated catalogue of inbox activity for samgmaina@gmail.com / samuel@thesocialhouse.ke, scoped to 15–21 Sept 2026. Refreshed every 3 hours. Recurring operational mail is collapsed into one line per category (see below); only non-repeated items and items carrying a deliverable are listed individually. Real revenue, cost, margin and occupancy figures are redacted per standing policy — check the source system for exact numbers.
 
-Last refreshed: 2026-09-20T12:41Z
+Last refreshed: 2026-09-20T15:41Z
 
 ---
 
@@ -87,7 +87,7 @@ One line per category, not one per daily instance.
 | Sales inquiry lead handoffs (FOH → Sales) | Beautiful People FOH, Gerald Githiari | As inquiries come in | Routine intake; today's example was a gin-party event follow-up from Talent Africa Group — distinct from the Malfy Gin lead already flagged |
 | Bills left in the system | Dominic Manono (FOH) | As they occur | Routine nightly exception list; small amounts, figures redacted here — flagged separately above only when it's something larger like a double payment |
 | New Google Business reviews | businessprofile-noreply@google.com | As they land | Informational; latest was for Copper. Same treatment as the TripAdvisor feed — worth a read, respond if it needs one |
-| TOR month-to-date performance report | RnB Supervisors (Allan & Liz) | Weekly/monthly | Routine, to a wide leadership cc including Peter Brainch — filed |
+| TOR / Inca outlet performance reports | RnB Supervisors (Allan, Liz, Darwin) | Weekly/monthly | Routine, to a wide leadership cc including Peter Brainch — filed |
 | No-shows / pending arrivals overnight report | Dominic Manono (FOH) | Daily | Routine reservations exception list, filed |
 | Stores access / substitution notices | Dominic Manono (FOH), Kitchen | As they occur | Routine — e.g. an out-of-stock ingredient swapped for an alternative brand overnight |
 
