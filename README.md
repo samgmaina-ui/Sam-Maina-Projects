@@ -2,7 +2,7 @@
 
 Auto-generated catalogue of inbox activity for samgmaina@gmail.com / samuel@thesocialhouse.ke, scoped to 15–21 Sept 2026. Refreshed every 3 hours. Recurring operational mail is collapsed into one line per category (see below); only non-repeated items and items carrying a deliverable are listed individually. Real revenue, cost, margin and occupancy figures are redacted per standing policy — check the source system for exact numbers.
 
-Last refreshed: 2026-09-21T09:41Z
+Last refreshed: 2026-09-21T12:41Z
 
 ---
 
@@ -50,7 +50,10 @@ Table trimmed periodically as items close — see "Resolved this week" below for
 | 18 Sep evening | Dominic Manono (FOH), to R&B leadership | Staff injury — Marafiki (Glass Washer, Inca) | Ferdinand sustained an injury moving to the back area at Inca; first aid was administered on the spot. Needs a proper incident report and a check that the standard follow-up (medical review, any WIBA/insurance step) is underway, not just a one-line note. |
 | 20 Sep | Lindsay Gray (guest), to talktous@ | Reservation confirmation + airport transfer request, stay 23–28 Sept | Guest emailed directly asking Reservations to confirm their upcoming stay is on file and to arrange an airport transfer. Needs a reply from Reservations/FOH. |
 | 20 Sep | Cynthia Hayes (owner, Hayes Executive Travel, US travel agency), to talktous@ | Travel-industry rate request ahead of a Nov site visit | Owner of a US corporate/luxury travel management company is requesting a travel-advisor/industry-preferred rate and airport-transfer guidance for a one-night stay 1–2 Nov, ahead of an ABTP familiarization trip. She's explicit that she's currently deciding which Nairobi properties to recommend to her US clientele — same pattern as the Omnicom/Safari Word Travel rate requests already tracked. Needs a rate reply from Sales/Reservations. |
-| 21 Sep | Enoka Otieno (Marketing/Design), to Fridah/Finance, cc Sam | Inca menu reprinting — stalled since July, revived today | A menu reprint job (Print Republik quote already in hand from July) stalled somewhere between Marketing and Finance and never went ahead. Enoka's flagged today to pick it back up, looping Pauline in. Needs Fridah/Finance to confirm the quote is still valid and release it so printing can proceed. |
+| 21 Sep | Enoka Otieno (Marketing/Design), to Fridah/Finance, cc Sam | Inca menu reprinting — stalled since July, revived today | A menu reprint job (Print Republik quote already in hand from July) stalled somewhere between Marketing and Finance and never went ahead. Enoka's flagged today to pick it back up, looping Pauline in. Needs Fridah/Finance to confirm the quote is still valid and release it so printing can proceed. **Update (21 Sep):** a fair quote has now been received; Enoka will proceed once a print sample arrives tomorrow — moving again. |
+| 21 Sep | Michelle Isiaho (Events) / Juliet | Tewasart & Patrons Benefit Silent Auction — approved with a condition, INCA, 3 Oct | Juliet has approved the date and a 10% commission structure for this ~50-guest art auction/residency partnership, but wants written confirmation from Tewasart & Patrons that F&B costs for their expected 70 guests are covered by a drinks sponsor and the organizers' own event-partner budget before it's finalized — TSH shouldn't absorb food cost on a commission-only deal. Needs Michelle to get that in writing, then lock the date. |
+| 21 Sep | Gerald Githiari (Sales), to Moët Hennessy (Gboyega) | Quotation sent — booking for 28 Sept | New corporate booking quotation sent, 75% down payment required to confirm. Awaiting client confirmation. |
+| 21 Sep | Derrick Karanja (Adana, on behalf of Nairobi Polo Club) | Partnership inquiry — Nairobi Polo Club x TSH, follow-up chase | Partnership pitch first sent 14 Sept, chased today after no reply; Sam's sent a holding response ("received and reviewing"). Needs an actual go/no-go read, similar to the Malfy Gin partnership lead already tracked. |
 
 ## Resolved this week
 
