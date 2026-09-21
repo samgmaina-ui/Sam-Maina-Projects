@@ -2,7 +2,7 @@
 
 Auto-generated catalogue of inbox activity for samgmaina@gmail.com / samuel@thesocialhouse.ke, scoped to 15–21 Sept 2026. Refreshed every 3 hours. Recurring operational mail is collapsed into one line per category (see below); only non-repeated items and items carrying a deliverable are listed individually. Real revenue, cost, margin and occupancy figures are redacted per standing policy — check the source system for exact numbers.
 
-Last refreshed: 2026-09-21T12:41Z
+Last refreshed: 2026-09-21T18:41Z
 
 ---
 
@@ -51,9 +51,10 @@ Table trimmed periodically as items close — see "Resolved this week" below for
 | 20 Sep | Lindsay Gray (guest), to talktous@ | Reservation confirmation + airport transfer request, stay 23–28 Sept | Guest emailed directly asking Reservations to confirm their upcoming stay is on file and to arrange an airport transfer. Needs a reply from Reservations/FOH. |
 | 20 Sep | Cynthia Hayes (owner, Hayes Executive Travel, US travel agency), to talktous@ | Travel-industry rate request ahead of a Nov site visit | Owner of a US corporate/luxury travel management company is requesting a travel-advisor/industry-preferred rate and airport-transfer guidance for a one-night stay 1–2 Nov, ahead of an ABTP familiarization trip. She's explicit that she's currently deciding which Nairobi properties to recommend to her US clientele — same pattern as the Omnicom/Safari Word Travel rate requests already tracked. Needs a rate reply from Sales/Reservations. |
 | 21 Sep | Enoka Otieno (Marketing/Design), to Fridah/Finance, cc Sam | Inca menu reprinting — stalled since July, revived today | A menu reprint job (Print Republik quote already in hand from July) stalled somewhere between Marketing and Finance and never went ahead. Enoka's flagged today to pick it back up, looping Pauline in. Needs Fridah/Finance to confirm the quote is still valid and release it so printing can proceed. **Update (21 Sep):** a fair quote has now been received; Enoka will proceed once a print sample arrives tomorrow — moving again. |
-| 21 Sep | Michelle Isiaho (Events) / Juliet | Tewasart & Patrons Benefit Silent Auction — approved with a condition, INCA, 3 Oct | Juliet has approved the date and a 10% commission structure for this ~50-guest art auction/residency partnership, but wants written confirmation from Tewasart & Patrons that F&B costs for their expected 70 guests are covered by a drinks sponsor and the organizers' own event-partner budget before it's finalized — TSH shouldn't absorb food cost on a commission-only deal. Needs Michelle to get that in writing, then lock the date. |
+| 21 Sep | Michelle Isiaho (Events) / Juliet | Tewasart & Patrons Benefit Silent Auction — approved with a condition, INCA, date now in question | Juliet approved a 10% commission structure for this art auction/residency partnership, conditional on written confirmation that F&B costs are covered by a drinks sponsor and the organizers' own budget (TSH shouldn't absorb food cost on a commission-only deal). **Update (21 Sep):** Tewa has asked to push the date from 3 Oct to late Oct/early Nov, since they've apparently already confirmed a different venue for the 3rd. Sam's told Michelle to keep INCA's commercial position central — Saturdays are among INCA's strongest — as she continues the discussion. Still needs a firm date and the written F&B-cost confirmation before this locks. |
 | 21 Sep | Gerald Githiari (Sales), to Moët Hennessy (Gboyega) | Quotation sent — booking for 28 Sept | New corporate booking quotation sent, 75% down payment required to confirm. Awaiting client confirmation. |
 | 21 Sep | Derrick Karanja (Adana, on behalf of Nairobi Polo Club) | Partnership inquiry — Nairobi Polo Club x TSH, follow-up chase | Partnership pitch first sent 14 Sept, chased today after no reply; Sam's sent a holding response ("received and reviewing"). Needs an actual go/no-go read, similar to the Malfy Gin partnership lead already tracked. |
+| 17 Sep (recovery ongoing) | Cynthia Donela (Restaurant Manager) | Guest breakfast charge — signed proof now recovered | Sam emailed an external guest on 17 Sept about a modest unbilled breakfast charge missed at checkout, asking how she'd like to settle it (no reply yet from the guest). Donela's since confirmed the guest did sign the bill before departure — the charge was only missed because the room was verified for credit after the guest had already checked out — and has retrieved the signed copy. Needs Reservations/Finance to now pursue collection with the signed proof in hand, or write it off if the guest doesn't respond. |
 
 ## Resolved this week
 
@@ -69,6 +70,7 @@ Table trimmed periodically as items close — see "Resolved this week" below for
 - **New Google review for Inca (15 Sep):** filed — see the routine "New Google Business reviews" row below for ongoing instances.
 - **Event seating request, 18 Sep (193 registrations):** Michelle confirmed 60 seats in The Shed with a flipchart same morning — closed within the hour, cc'd to Sam for visibility only.
 - **Bills not matching, 18 Sep night audit (small POS discrepancies):** Sam forwarded it to Donela for investigation the same morning — owner assigned, no further action needed from Sam for now.
+- **Gap in Materials Control cover, 21 Sep:** Sam flagged a staffing gap for when Janet Kangethe and Nicole Okech are both away and asked ICT for a stand-in login; IT set Sam up as Janet's stand-in the same afternoon.
 
 ## Recurring / routine mail (deduped)
 
@@ -93,6 +95,7 @@ One line per category, not one per daily instance.
 | Bills left in the system | Dominic Manono (FOH) | As they occur | Routine nightly exception list; small amounts, figures redacted here — flagged separately above only when it's something larger like a double payment |
 | New Google Business reviews | businessprofile-noreply@google.com | As they land | Informational; latest was for Copper. Same treatment as the TripAdvisor feed — worth a read, respond if it needs one |
 | TOR / Inca outlet performance reports | RnB Supervisors (Allan, Liz, Darwin) | Weekly/monthly | Routine, to a wide leadership cc including Peter Brainch — filed |
+| Bar variance reports (Inca, The Living Room) | Raycard Mutuko (Assistant Cost Controller) | Daily/as issued | Routine cost-control exception reports; figures redacted here |
 | No-shows / pending arrivals overnight report | Dominic Manono (FOH) | Daily | Routine reservations exception list, filed |
 | Stores access / substitution notices | Dominic Manono (FOH), Kitchen | As they occur | Routine — e.g. an out-of-stock ingredient swapped for an alternative brand overnight |
 
