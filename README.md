@@ -2,7 +2,13 @@
 
 Auto-generated catalogue of inbox activity for samgmaina@gmail.com / samuel@thesocialhouse.ke, scoped to 15–21 Sept 2026. Refreshed every 3 hours. Recurring operational mail is collapsed into one line per category (see below); only non-repeated items and items carrying a deliverable are listed individually. Real revenue, cost, margin and occupancy figures are redacted per standing policy — check the source system for exact numbers.
 
-Last refreshed: 2026-09-21T18:41Z
+Last refreshed: 2026-09-22T00:41Z
+
+---
+
+## ⏸ Fixed week has closed
+
+The fixed digest window (15–21 Sept 2026) closed at end of day 21 Sept. Per standing instructions, this window is **not** being rolled forward automatically. This refresh (and any further ones on the current schedule) will keep scanning the same 15–21 Sept window and reporting routine/no-new-deliverable status until Sam decides whether to start a new week — and if so, what the new window should be. No action has been taken on this without Sam's confirmation.
 
 ---
 
