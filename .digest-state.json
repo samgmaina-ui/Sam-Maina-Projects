@@ -1,9 +1,11 @@
 {
-  "weekStart": "2026-09-15",
-  "weekEnd": "2026-09-21",
-  "emailThreadId": "1a0e5763c28ee42d",
-  "emailTo": "samuel@thesocialhouse.ke",
-  "lastRefreshed": "2026-09-30T06:41:45Z",
-  "previousEmailThreadId": "1a0a3941e820009e",
-  "threadSwitchReason": "original thread hit 100-message cap on 2026-09-27/28; replies stopped threading, so continuing in a fresh thread pending Sam's confirmation of preference"
+  "status": "paused",
+  "lastRefreshed": "2026-10-19T03:42:00Z",
+  "weekStart": null,
+  "weekEnd": null,
+  "emailThreadId": null,
+  "emailTo": null,
+  "previousEmailThreadId": null,
+  "threadSwitchReason": null,
+  "note": "Reset after data-loss incident (container replacement wiped the uncommitted digest built since 1 Oct 2026). Awaiting Sam's decision on whether to start a new tracking week and which Gmail thread to reply into before resuming normal digest cycles. See README.md for details."
 }
