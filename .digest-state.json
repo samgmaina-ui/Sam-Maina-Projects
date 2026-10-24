@@ -3,7 +3,7 @@
   "weekEnd": "2026-09-21",
   "emailThreadId": "1a0e5763c28ee42d",
   "emailTo": "samuel@thesocialhouse.ke",
-  "lastRefreshed": "2026-10-24T06:42:00Z",
+  "lastRefreshed": "2026-10-24T09:42:00Z",
   "previousEmailThreadId": "1a0a3941e820009e",
   "threadSwitchReason": "original thread hit 100-message cap on 2026-09-27/28; replies stopped threading, so continuing in a fresh thread pending Sam's confirmation of preference",
   "note": "Restored 19 Oct from commit b7f5104 (last good state, 2026-09-30T06:41Z) after an earlier cycle in this session wrongly diagnosed total data loss without ever running git fetch against origin. Content from 15-30 Sept was never actually at risk; only uncommitted edits from roughly 1-15 Oct were genuinely lost. See README.md correction note."
