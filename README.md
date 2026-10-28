@@ -2,7 +2,7 @@
 
 Auto-generated catalogue of inbox activity for samgmaina@gmail.com / samuel@thesocialhouse.ke, scoped to 15–21 Sept 2026. Refreshed every 3 hours. Recurring operational mail is collapsed into one line per category (see below); only non-repeated items and items carrying a deliverable are listed individually. Real revenue, cost, margin and occupancy figures are redacted per standing policy — check the source system for exact numbers.
 
-Last refreshed: 2026-10-27T21:42Z (2026-10-28T00:41Z and 03:41Z cycles skipped — Gmail API quota exhausted, could not check for new mail; will retry next cycle)
+Last refreshed: 2026-10-28T06:41Z (Gmail API quota recovered this cycle after two skipped cycles at 00:41Z and 03:41Z on 28 Oct)
 
 ---
 
